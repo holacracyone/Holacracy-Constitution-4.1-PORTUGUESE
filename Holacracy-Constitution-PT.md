@@ -56,211 +56,209 @@ Você também pode definir **_“Políticas”_** para seus Domínios, que são 
 
 As autoridades concedidas a você nesta seção podem ser ainda limitadas por restrições definidas no item 2.1.3.
 
-## Artigo II: Estrutura de Círculos
-### 2.1 Circle Basics
+## Artigo II: Estrutura em Círculos
+### 2.1 Noções Básicas dos Círculos
 
-A **_“Circle”_** is a Role that may further break itself down by defining its own contained Roles to achieve its Purpose, control its Domains, and enact its Accountabilities. The Roles a Circle defines are its **_“Defined Roles”_**, and anyone filling one of its Defined Roles is a **_“Circle Member”_** of that Circle.
+Um **_“Círculo”_** é um Papel que pode posteriormente se dividir definindo os seus Papéis contidos a fim de alcançar seu Propósito, controlar os seus Domínios e promulgar as suas Responsabilidades. Os Papéis que um Círculo define são os seus **_“Papéis Definidos”_** e qualquer pessoa desempenhando um de seus Papéis Definidos é um **_“Membro do Círculo”_**.
 
-#### 2.1.1 Defining Roles & Policies
+#### 2.1.1 Definindo Papéis & Políticas
 
-Each Circle will use the **_“Governance Process”_** described in Article III of this Constitution to define or amend Roles within the Circle or Policies governing the Circle’s Domain. No one may define or amend a Circle’s Roles or Policies outside of its Governance Process, unless explicitly allowed by another rule of this Constitution. 
+Cada Círculo usará o seu **_“Processo de Governança”_** descrito no Artigo III desta Constituição para definir ou emendar Papéis dentro do Círculo ou Políticas governando os Domínios do Círculo. Ninguém pode definir ou emendar os Papéis ou Políticas do Círculo fora do Processo de Governança, exceto se explicitamente permitido por outra regra desta Constituição.
 
-Further, each Circle may control its own functions and activities, as if a Domain of the Circle, for the purpose of defining Policies that limit the Circle’s Roles.
+Além disso, cada Círculo pode controlar as suas próprias funções e atividades, como se fosse um Domínio do Círculo, com o objetivo de definir Políticas que limitem os Papéis do Círculo.
 
-#### 2.1.2 Roles May Impact Circle Domains
+#### 2.1.2 Papéis podem impactar os Domínios do Círculo
 
-When filling a Role in a Circle, you may use and impact any Domain controlled by the Circle itself, or that the Circle is authorized to impact. However, you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle, and you may not fully control or regulate the Domain under the terms of Section 1.4.
+Ao desempenhar um Papel em um Círculo, você pode usar e impactar qualquer Domínio controlado pelo Círculo, ou que o Círculo está autorizado a impactar. No entanto, você deve respeitar eventuais restrições que atuem sobre o próprio Círculo ou definidas por Políticas do Círculo, e você não pode controlar ou regular totalmente o Domínio sob os termos do item 1.4.
 
-Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain. However, these restrictions do not apply if a Role or process holding the needed authority grants you permission to do so.
+Além disso, você não pode transferir ou dispor do Domínio ou quaisquer ativos do mesmo, nem limitar de forma significativa quaisquer direitos do Círculo no Domínio. Contudo, estas restrições não se aplicam se o Papel ou processo retentor da autoridade necessária lhe concede permissão para fazê-lo.
 
-#### 2.1.3 Delegation of Control
+#### 2.1.3 Delegação do Controle
 
-When a Circle defines a Domain upon one of its Roles, the Circle’s authority to impact, control, and regulate that Domain is instead delegated to that Role and removed from the Circle.
+Quando um Círculo define um Domínio sobre um dos seus Papéis, a autoridade do Círculo de impactar, controlar e regular aquele Domínio é delegada a esse Papel e removida do Círculo.
 
-However, the Circle retains the right to amend or remove that Domain delegation, or to define or modify Policies that further grant or constrain the Role’s authority within the Domain.
+Contudo, o Círculo retém o direito de emendar ou remover esta delegação de Domínio, ou de definir e modificar Políticas que concedam ou limitem ainda mais a autoridade do Papel no Domínio.
 
-By default, any Domains delegated in this way exclude the authority to dispose of the Domain itself or any significant assets within the Domain, or to transfer those assets outside of the Circle, or to significantly limit any rights of the Circle to the Domain. A Circle may delegate these retained authorities as well, by explicitly granting the desired permissions in a Policy of the Circle.
+Por padrão, quaisquer Domínios delegados desta forma excluem a autoridade de dispor-se do próprio Domínio ou de ativos dentro do Domínio, ou de transferir ativos do mesmo para fora do Círculo, ou de limitar de forma significativa quaisquer direitos do Círculo no Domínio. Um Círculo pode delegar estas autoridades retidas também outorgando explicitamente as permissões desejadas em uma política do Círculo.
 
-In any case, all Domain delegations are always limited to whatever authority the Circle itself had in the first place.
+Em qualquer caso, todas as delegações de Domínio estão sempre limitadas por qualquer autoridade concedida ao Círculo em primeira instância.
 
-### 2.2 Circle Lead Link
+### 2.2 Elo Principal do Círculo
 
-Each Circle has a **_“Lead Link Role”_** with the definition given in Appendix A and the further responsibilities and authorities defined in this Section.
+Cada Círculo tem um Papel denominado **_Elo Principal_** com a definição dada no Anexo A e as demais responsabilidades e autoridades definidas nesta seção.
 
-The person filling the Lead Link Role, while acting in that capacity, is referred to as the Circle’s **_“Lead Link”_**.
+A pessoa que desempenha o Papel de Elo Principal, agindo nessa qualidade, é chamado de **_Elo Principal_** do Círculo.
 
-#### 2.2.1 Holds Undifferentiated Functions
+#### 2.2.1 Detém Funções Indiferenciadas
 
-A Circle’s Lead Link inherits the Purpose and any Accountabilities on the Circle itself, and controls any Domains defined on the Circle, just as if the Circle were only a Role and the Lead Link filled that Role. However, this only applies to the extent that those Accountabilities and Domains have not been placed upon a Role within the Circle, or otherwise delegated.
+O Elo Principal de um Círculo herda o Propósito e as Responsabilidades do próprio Círculo e controla todos os Domínios definidos no Círculo, como se o Círculo fosse o único Papel e o Elo Principal desempenhasse esse papel. Contudo, isto só se aplica até o ponto em que estas Responsabilidades e Domínios não tenham sido colocadas sobre um Papel dentro do Círculo, ou de outra forma delegadas.
 
-Further, the Lead Link may not define Policies that limit the Circle’s Roles, except via the Governance Process of the Circle.
+Além disso, o Elo Principal não pode definir Políticas que limitem os Papéis do Círculo, exceto através do Processo de Governança do Círculo.
 
-#### 2.2.2 Defines Priorities & Strategies
+#### 2.2.2 Define Prioridades & Estratégias
 
-A Circle’s Lead Link may define relative priorities for the Circle.
-
-In addition, the Lead Link may define a more general **_“Strategy”_** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
+O Elo Principal de um Círculo pode definir prioridades relacionadas ao Círculo. Além disso, o Elo Principal pode definir uma **_“Estratégia”_** mais genérica para o Círculo, ou múltiplas Estratégias, que são heurísticas que orientam os Papéis do Círculo na auto-identificação das prioridades contínuas.
 
 #### 2.2.3 Amending the Lead Link Role
 
-A Circle may not add Accountabilities or other functions to its own Lead Link Role, or modify the Role’s Purpose, or remove the Role entirely. 
+Um Círculo não pode adicionar Responsabilidades ou outras funções que possui para o Papel de Elo Principal, modificar o Propósito, ou remover este Papel inteiramente. 
 
-However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its Lead Link Role, either by placing them on another Role within the Circle, or by defining an alternate means of enacting them. When this occurs, it automatically removes the relevant element or authority from the Lead Link Role, for as long as the delegation remains in place.
+Contudo, um Círculo pode remover quaisquer Responsabilidades, Domínios, autoridades, ou funções definidas do seu Papel de Elo Principal, ou colocando-as em outro Papel do Círculo, ou definindo formas alternativas de promulgá-las. Quando isto acontece, o elemento ou autoridade do Papel de Elo Principal é automaticamente removido, enquanto a delegação continuar em vigor.
 
-### 2.3 Core Circle Members
+### 2.3 Membros Principais do Círculo
 
-Some Circle Members are allowed to take part in a Circle’s Governance Process, and are thus **_“Core Circle Members”_** of the Circle.
+Alguns Membros do Círculo estão autorizados a participar do Processo de Governança do mesmo, e são, portanto, **_“Membros Principais do Círculo”_**.
 
-The Core Circle Members are determined using the following rules:
+Os Membros Principais do Círculo são determinados usando as seguintes regras:
 
-#### 2.3.1 Base Membership
+#### 2.3.1 Filiação Básica
 
-Unless a special appointment or exclusion is made under the terms of this section, the Core Circle Members of a Circle are:
+A menos que uma designação especial ou exclusão seja feita dentro dos termos desta seção, os Membros Principais do Círculo são:
 
-- **(a)** each Partner filling a Defined Role in the Circle;
-- **(b)** the Lead Link of the Circle, as defined in Section 2.2;
-- **(c)** each Rep Link elected to the Circle, as defined in Section 2.6.4;
-- **(d)** and each Cross Link into the Circle, as defined in Section 2.7.
+- **(a)** cada Parceiro desempenhando um Papel Definido no Círculo;
+- **(b)** o Elo Principal do Círculo, como definido no item 2.2;
+- **(c)** cada Elo Representativo eleito para o Círculo, como definido no item 2.6.4;
+- **(d)** e cada Elo Transversal no Círculo, como definido no item 2.7.
 
-#### 2.3.2 Exclusion for Multi-Filled Roles
+#### 2.3.2 Exclusão para Papéis desempenhados por múltiplos Parceiros
 
-If multiple Partners are assigned to the same Defined Role in a Circle, the Circle may enact a Policy that limits how many of them are Core Circle Members as a result of that Role assignment. However, the Policy must allow at least one of the Partners filling the Role to represent it as a Core Circle Member, and must specify how that representative will be determined.
+Se múltiplos Parceiros são designados para o mesmo Papel Definido no Círculo, o Círculo pode promulgar uma Política que limita quantos são Membros Principais do Círculo como resultado da atribuição do Papel. Contudo, a Política deve permitir que pelo menos um dos Parceiros desempenhando o Papel possa representá-lo como um Membro Principal do Círculo, e deve especificar como esse representante será determinado.
 
-In addition, any Partners representing the Role have the duty to consider and process Tensions conveyed by the excluded Partners, exactly as a Rep Link would were the Role a Sub-Circle, unless the Policy defines an alternate pathway for the excluded Partners to process Tensions related to that Role.
+Além disso, quaisquer Parceiros representando o Papel têm o dever de considerar e processar Tensões transmitidas pelos Parceiros excluídos, exatamente como um Elo Representativo faria se fosse um Papel do Subcírculo, a menos que uma Política defina um caminho alternativo para os Parceiros excluídos processarem Tensões relacionadas àquele Papel.
 
-#### 2.3.3 Exclusion for Minor Allocations
+#### 2.3.3 Exclusão para Alocações Menores
 
-Sometimes, a Partner allocates only a very minor, nearly insignificant amount of attention to a Defined Role in a Circle. If the Circle's Lead Link reasonably believes this is the case, the Lead Link may exclude that Partner from serving as a Core Circle Member as a result of that Role assignment.
+Em alguns casos, o Parceiro aloca apenas uma quantidade muito pequena, quase insignificante de atenção para o Papel Definido em um Círculo. Se o Elo Principal razoavelmente acredita que este seja o caso, o Elo Principal pode excluir o Parceiro de servir como um Membro Principal do Círculo como resultado daquela atribuição de Papel.
 
-If a Partner is so excluded, the Lead Link has a duty to consider and process Tensions conveyed by the excluded Partner, exactly as a Rep Link would were the Role a Sub-Circle, unless an alternate pathway is defined for the excluded Partner to process Tensions related to that Role.
+Se um Parceiro é excluído desta forma, o Elo Principal tem o dever de considerar e processar Tensões transmitidas pelo Parceiro excluído, exatamente como um Elo Representativo faria se fosse um Papel do Subcírculo, a menos que uma Política defina um caminho alternativo para o Parceiro excluído processar Tensões relacionadas àquele Papel.
 
-#### 2.3.4 Special Appointments of Core Members
+#### 2.3.4 Nomeações Especiais de Membros Principais
 
-The Lead Link of a Circle may specially appoint additional persons to serve as Core Circle Members of a Circle, beyond those required by this Constitution, and may further remove these special appointments at any time.
+O Elo Principal de um Círculo pode especialmente nomear pessoas adicionais para servirem como Membros Principais de um Círculo, além daquelas exigidas por esta Constituição, e pode posteriormente remover estas nomeações a qualquer momento.
 
-### 2.4 Role Assignment
+### 2.4 Atribuição de Papéis
 
-The Lead Link of a Circle may assign people to fill Defined Roles in the Circle, unless that authority has been limited or delegated.
+O Elo Principal de um Círculo pode atribuir às pessoas para que desempenhem Papéis Definidos em um Círculo, a não ser que esta autoridade tenha sido limitada ou delegada.
 
 #### 2.4.1 Unfilled Roles
 
-Whenever a Defined Role in a Circle is unfilled, the Circle’s Lead Link is considered to be filling the Role.
+Toda vez que um Papel Definido em um Círculo não é preenchido, considera-se que o Elo Principal esteja desempenhando o Papel.
 
 #### 2.4.2 Assigning Roles to Multiple People
 
-A Lead Link may assign multiple people to the same Defined Role, as long as that will not decrease the clarity of who should enact the Accountabilities and authorities of the Role in common situations.
+Um Elo Principal pode atribuir a múltiplas pessoas o mesmo Papel Definido, contanto que isso não diminua a clareza de quem irá promulgar as Responsabilidades e autoridades do Papel em situações comuns.
 
-As one way of maintaining that clarity, a Lead Link may specify a “Focus” along with each assignment, which is an area or context for that person to focus within while executing in the Role.
+Como uma forma de manter essa clareza, um Elo Principal pode especificar um “Foco”, juntamente com cada atribuição, que é uma área ou contexto para que a pessoa se concentre enquanto desempenha o Papel.
 
-When a Role assignment includes a Focus, the Purpose, Accountabilities, and Domains defined for the Role apply just within the specified Focus for that particular person.
+Quando uma atribuição de Papel inclui um Foco, o Propósito, Responsabilidades e Domínios definidos para o Papel se aplicam apenas dentro do Foco especificado para aquela pessoa em particular.
 
-#### 2.4.3 Resignation from Roles
+#### 2.4.3 Renúncia de Papéis
 
-When you fill a Role, you may resign from the Role at any time, unless you’ve agreed otherwise, by giving notice to whoever controls assignments to that Role – typically, the Circle’s Lead Link.
+Quando você desempenha um Papel, você pode renunciar ao Papel a qualquer momento, a menos que você tenha acordado de outra forma, notificando quem quer que controle as atribuições daquele Papel — normalmente o Elo Principal.
 
-### 2.5 Elected Roles
+### 2.5 Papéis Eleitos
 
-Each Circle includes a **_“Facilitator Role”_**, a **_“Secretary Role”_**, and a **_“Rep Link Role”_** with the definitions given in Appendix A. These are the Circle’s **_“Elected Roles”_**, and the person filling each becomes the Circle’s **_“Facilitator”_**, **_“Secretary”_**, or **_“Rep Link”_** when acting in the capacity of the Elected Role.
+Cada Círculo inclui um **_“Papel Facilitador”_**, um **_“Papel Secretário”_**, e um **_“Papel Elo Representativo”_** com as definições estabelecidas no Anexo A. Estes são os **_“Papéis Eleitos”_** do Círculo, e a pessoa que desempenha cada um se torna o **_“Facilitador”_**, **_“Secretário”_**, ou **_“Elo Representativo”_** do Círculo ao agir na qualidade do Papel Eleito.
 
-#### 2.5.1 Elections & Eligibility
+#### 2.5.1 Eleições & Eligibilidade
 
-The Facilitator of each Circle will facilitate regular elections to elect a Core Circle Member of the Circle into each of its Elected Roles, using the process and rules defined in Article III.
+O Facilitador de cada Círculo irá facilitar eleições regulares para eleger os Membros Principais do Círculo em cada um dos seus Papéis Eleitos, usando o processo e as regras definidas no Artigo III.
 
-All Core Circle Members are eligible for election and each may hold multiple Elected Roles, except for the Lead Link of a Circle, who may not be elected as its Facilitator or Rep Link.
+Todos os Membros Principais do Círculo têm direito às eleições e podem sustentar múltiplos Papéis Eleitos, exceto o Elo Principal do Círculo, que não pode ser eleito como seu Facilitador ou Elo Representativo.
 
-#### 2.5.2 Election Terms & Revisiting
+#### 2.5.2 Vigência da Eleição & Revisitação
 
-During the election process, the Facilitator will specify a term for each election. After a term expires, the Secretary is responsible for promptly triggering a new election for that Elected Role. However, even before a term has expired, any Core Circle Member may trigger a new election using the process defined in Article III.
+Durante o processo de eleição, o Facilitador especificará um prazo de vigência para cada eleição. Depois que o prazo expira, o Secretário é responsável por imediatamente convocar uma nova eleição para aquele Papel Eleito. Contudo, mesmo antes que o prazo expire, qualquer Membro Principal do Círculo pode convocar uma nova eleição usando o processo definido no Artigo III.
 
-#### 2.5.3 Amending Elected Roles
+#### 2.5.3 Emendando Papéis Eleitos
 
-A Circle may add Accountabilities or Domains to its Elected Roles, as well as amend or remove those additions.
+Um Círculo pode acrescentar Responsabilidades ou Domínios ao seus Papéis Eleitos, bem como alterar ou remover essas adições.
 
-However, a Circle may only add to its own Rep Link Role and not to a Rep Link Role appointed to the Circle by a Sub-Circle.
+Contudo, um Círculo só pode acrescentar ao seu próprio Papel Elo Representativo e não ao Papel Elo Representativo designado para o Círculo por um Subcírculo.
 
-Further, no Circle may amend or remove any Purpose, Domain, Accountabilities, or authorities granted to an Elected Role by this Constitution, nor remove an Elected Role entirely.
+Além disso, nenhum Círculo pode emendar ou remover qualquer Propósito, Domínio, Responsabilidades ou autoridades concedidas a um Papel Eleito por esta Constituição, nem remover um Papel Eleito inteiramente.
 
-#### 2.5.4 Surrogates for Elected Roles
+#### 2.5.4 Substitutos para Papéis Eleitos
 
-A surrogate may temporarily fill an Elected Role when one is unfilled, or when the person who normally fills the Role is unavailable for a Circle meeting or feels unable or unwilling to enact the Role’s duties.
+Um substituto pode temporariamente desempenhar um Papel Eleito quando o mesmo não está sendo desempenhado, ou quando a pessoa que normalmente desempenha o Papel está indisponível para uma reunião do Círculo, ou sente-se incapaz ou indisposta a promulgar os deveres do Papel.
 
-In any given instance where a surrogate is needed, the surrogate is, in this order of precedence:
+Em qualquer caso em que é necessário um substituto, o substituto é, nesta ordem de precedência:
 
-- **(a)** someone explicitly specified by the person to be replaced; or
-- **(b)** the acting Facilitator of the Circle; or
-- **(c)** the acting Secretary of the Circle; or
-- **(d)** the Lead Link of the Circle; or
-- **(e)** the first Core Circle Member of the Circle to declare he or she is acting as the surrogate.
+- **(a)** alguém explicitamente especificado pela pessoa a ser substituída; ou
+- **(b)** o Facilitator em exercício do Círculo; ou
+- **(c)** o Secretário em exercício do Círculo; ou
+- **(e)** o Elo Principal do Círculo; ou
+- **(d)** o primeiro Membro Principal do Círculo a declarar que ele ou ela está atuando como um substituto.
 
-### 2.6 Sub-Circles
+### 2.6 Subcírculos
 
-A Circle may expand its Defined Roles into full Circles, via its Governance Process. When it does, the new Circle becomes its **_“Sub-Circle”_**, while it becomes the **_“Super-Circle”_** of that new Sub-Circle.
+Um Círculo pode expandir os seus Papéis Definidos em Círculos completos, através do Processo de Governança. Quando isso acontecer, o novo Círculo se torna seu **_“Subcírculo”_**, enquanto que o outro se torna o **_“Supercírculo”_** daquele novo Subcírculo.
 
-#### 2.6.1 Modifying Sub-Circles
+#### 2.6.1 Modificando Subcírculos
 
-A Circle may modify the Purpose, Domain, or Accountabilities on a Sub-Circle. 
+Um Círculo pode modificar o Propósito, Domínios ou Responsabilidades de um Subcírculo.
 
-A Circle may also move its own Defined Roles or Policies into a Sub-Circle, or move any from within the Sub-Circle into itself.
+Um Círculo pode também mover os seus Papéis Definidos ou Políticas para um Subcírculo, ou mover estes do Subcírculo para si próprio.
 
-Any of these modifications may only be done via the Governance Process of the Circle.
+Qualquer uma dessas alterações só podem ser feitas através do Processo de Governança do Círculo.
 
-Beyond these allowed changes, a Circle may not modify any Defined Roles or Policies held within a Sub-Circle.
+Além dessas alterações permitidas, um Círculo não pode modificar quaisquer Papéis Definidos ou Políticas contidas em um Subcírculo.
 
-#### 2.6.2 Removing Sub-Circles
+#### 2.6.2 Removendo Subcírculos
 
-Through its Governance Process, a Circle may remove a Sub-Circle. This can be done by removing the Sub-Circle and everything within entirely, or by selectively retaining certain elements of the Sub-Circle within the Circle. A Sub-Circle may also be removed by collapsing it from a Circle back into just a Role.
+Através do seu Processo de Governança, um Círculo pode remover um Subcírculo. Isto pode ser feito através da remoção do Subcírculo e tudo contido dentro deste, ou retendo seletivamente determinados elementos do Subcírculo dentro do Círculo. Um Subcírculo também pode ser removido transformando-o de volta em um Papel.
 
-#### 2.6.3 Lead Link to Sub-Circle
+#### 2.6.3 Elo Principal para o Subcírculo
 
-A Circle’s Lead Link may assign someone to fill the Lead Link Role for each Sub-Circle, using the same rules that apply when the Lead Link assigns into any other Defined Role of the Circle.
+O Elo Principal de um Círculo pode atribuir a alguém o desempenho do Papel de Elo Principal de cada Subcírculo usando as mesmas regras que se aplicam quando o Elo Principal atribui a outros Parceiros o desempenho de quaisquer Papéis Definidos no Círculo.
 
-#### 2.6.4 Rep Link to Super-Circle
+#### 2.6.4 Elo Representativo para o Supercírculo
 
-Each Circle normally elects a Rep Link to its Super-Circle. However, this election is not required when a Circle lacks any Core Circle Members other than those serving as Lead Link and Cross Links into the Circle. In this case, even if the election is conducted, the elected Rep Link does not become a Core Circle Member of the Super-Circle.
+Cada Círculo normalmente elege um Elo Representativo para o seu Supercírculo. Contudo, esta eleição não é exigida quando um Círculo não tem nenhum Membro Principal do Círculo com exceção dos que servem como Elo Principal e Elos Transversais no Círculo. Neste caso, mesmo que uma eleição seja conduzida, o Elo Representativo eleito não se torna um Membro Principal do Supercírculo.
 
-### 2.7 Cross Linking
+### 2.7 Elo Transversal
 
-A Circle may create a **_“Cross Link Policy”_** to invite any entity or group to participate within another Circle’s Governance Process and operations. The entity or group that is invited to participate is the **_“Linked Entity”_**, and it may be external to the Organization, or it may be another Role or Circle within the Organization. The Circle that will receive this link is the **_“Target Circle”_**, and it must be the Circle creating the Policy, or one of its Sub-Circles.
+Um Círculo pode criar uma **_“Política de Elo Transversal”_** para convidar qualquer entidade ou grupo a participar dos Processos de Governança do Círculo e suas operações. A entidade ou grupo que for convidada a participar se torna a **_“Entidade Ligada”_**, e pode ser externa à Organização, ou pode ser um outro Papel ou Círculo dentro da Organização. O Círculo que recebe este elo é o **_“Círculo Alvo”_**, e deve ser o Círculo criador da Política, ou um de seus Subcírculos.
 
-Once a Cross Link Policy is adopted, the Linked Entity may assign a representative to participate in the Target Circle under the terms of this section, unless alternate terms are defined in the Policy.
+Uma vez que a Política de Elo Transversal é adotada, a Entidade Ligada pode atribuir um representante para participar no Círculo Alvo sob os termos desta seção, a menos que termos alternativos sejam definidos na Política.
 
-#### 2.7.1 Cross Link Role
+#### 2.7.1 Papel Elo Transversal
 
-If the Linked Entity is a Role, then that Role may participate in the Target Circle as described below. It becomes the **_“Cross Link Role”_**, with the person filling it becoming the **_“Cross Link”_**.
+Se a Entidade Ligada é um Papel, então o Papel pode participar no Círculo Alvo conforme é descrito abaixo. Ele se torna o **_"Papel Elo Transversal"_**, sendo que a pessoa desempenhando o Papel se torna o **_"Elo Transversal"_**.
 
-If the Linked Entity is a Circle or a group, then a new special-purpose Cross Link Role is automatically created instead, and resides within both the Linked Entity and the Target Circle, much like a Rep Link. In this case, the Cross Link Role has the same Purpose and Accountabilities as a Rep Link, but with the “Circle” referenced in the Rep Link Role description instead meaning the Linked Entity, and the “Super-Circle” instead meaning the Target Circle.
+Se a Entidade Ligada é um Círculo ou um grupo, então um novo Papel Elo Transversal com um propósito especial é automaticamente criado, e reside sobre tanto a Entidade Ligada quanto do Círculo Alvo, muito parecido com um Elo Representativo. Neste caso, o Papel Elo Transversal tem o mesmo Propósito e Responsabilidades de um Elo Representativo, mas com o “Círculo” referenciado na descrição do Papel de Elo Representativo ao invés significando Entidade Ligada e o “Supercírculo” ao invés significando Círculo Alvo.
 
-If the Linked Entity lacks both a clear Purpose and any clear Accountabilities, then the Cross Link Policy must further clarify what the Cross Link Role will represent within the Target Circle.
+Se a Entidade Ligada não tem nem um Propósito e nem Responsabilidades claras, então a Política de Elo Transversal deve esclarecer o que o Papel Elo Transversal representará dentro do Círculo Alvo.
 
-#### 2.7.2 Cross Link Assignment
+#### 2.7.2 Atribuição de Elo Transversal
 
-If the Linked Entity is a Circle or group, it may assign someone to fill the Cross Link Role using whatever process it already has for assigning people to fill Defined Roles or similar work functions.
+Se a Entidade Ligada for um Círculo ou um grupo, esta pode atribuir a uma pessoa o desempenho do Papel Elo Transversal usando qualquer processo já existente para atribuir às pessoas o desempenho dos Papéis Definidos ou funções de trabalho similares.
 
-If a Linked Entity represents a group with no single locus of authority to do that assignment, then the Target Circle may instead assign someone to the Cross Link Role, unless otherwise specified in the Cross Link Policy.
+Se uma Entidade Ligada representa um grupo com nenhum único lócus de autoridade para fazer essa tarefa, então o Círculo Alvo pode designar alguém para desempenhar o Papel Elo Transversal, salvo especificação contrária na Política de Elo Transversal.
 
-In all cases, only one person may be assigned to each Cross Link Role, unless allowed by the Cross Link Policy. 
+Em todos os casos, apenas uma pessoa pode ser atribuída a cada Papel Elo Transversal, exceto se permitido pela Política de Elo Transversal.
 
-Whenever a Cross Link Role is unfilled, it is considered non-existent and has no default assignment or effect.
+Sempre que um Papel Elo Transversal não é preenchido, ele é considerado não existente e não tem nenhuma atribuição padrão ou efeito.
 
-#### 2.7.3 Cross Link Authority
+#### 2.7.3 Autoridade do Elo Transversal
 
-A Cross Link becomes a Core Circle Member of the Target Circle, and may use the authorities of a Core Circle Member to process Tensions that relate to the Target Circle limiting the Linked Entity.
+Um Elo Transversal se torna um Membro Principal do Círculo Alvo, e pode usar quaisquer autoridades de um Membro Principal do Círculo para processar Tensões relacionadas ao Círculo Alvo que estão limitando a Entidade Ligada.
 
-However, beyond removing limitations, a Cross Link may not use the Target Circle to build more capacities for the Linked Entity, unless those capacities would also help the Target Circle express its own Purpose or Accountabilities.
+Contudo, além de remover estas limitações, um Elo Transversal não pode usar o Círculo Alvo para construir mais capacidades para a Entidade Ligada, exceto se essas capacidades também ajudassem o Círculo Alvo a expressar o seu Propósito e Responsabilidades.
 
-#### 2.7.4 Additions to a Cross Link Role
+#### 2.7.4 Adições ao Papel Elo Transversal
 
-A Linked Entity may amend its Cross Link Role through its own Governance Process.
+Uma Entidade Ligada pode emendar o seu Papel Elo Transversal através do seu próprio Processo de Governança.
 
-A Target Circle may add Domains or Accountabilities to a Cross Link Role through its own Governance Process, and may later amend or remove any it added.
+Um Círculo Alvo pode adicionar Domínios ou Responsabilidades para o Papel Elo Transversal através do seu próprio Processo de Governança, e pode mais tarde emendar ou remover quaisquer que ele adicionou.
 
-#### 2.7.5 Boundaries and Delegation
+#### 2.7.5 Limites e Delegação
 
-The Linked Entity invited into a Target Circle may be a Role contained by another Circle. In that case, the other Circle may change the Linked Entity to another one of its Roles that it believes is more appropriate, or delegate the selection of the Linked Entity to one of its Sub-Circles.
+A Entidade Ligada convidada para um Círculo Alvo pode ser um Papel contido em outro Círculo. Neste caso, o outro Círculo pode mudar a Entidade Ligada para um outro de seus Papéis que ele acredita ser mais apropriado, ou delegar esta seleção da Entidade Ligada para um de seus Subcírculos.
 
-The Target Circle may also delegate the requirement to receive a link to one of its own Sub-Circles, in which case that Sub-Circle will then become the Target Circle for the link.
+O Círculo Alvo pode também delegar a exigência de receber um elo para um de seus Subcírculos, em tal caso esse Subcírculo, então, se tornará o Círculo Alvo da ligação.
 
-In either case, any delegation must be done via a Policy of the Circle doing the delegating. Further, any change or delegation must still align with any constraints or guidelines specified in the Cross Link Policy that extended the invitation to link in the first place.
+Em ambos os casos, qualquer delegação deve ser feita por meio de uma Política do Circulo que o esteja fazendo. Além disso, qualquer mudança ou delegação deve ainda se alinhar com quaisquer restrições ou orientações especificadas na Política de Elo Transversal que estendeu o convite para ligar, em primeiro lugar.
 
 ## Article III: Governance Process
 
