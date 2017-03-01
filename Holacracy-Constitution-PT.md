@@ -1,64 +1,62 @@
-#**Holacracy Constitution**
+#**Constituição Holacracy**
 
 
-###PREAMBLE
+###PREÂMBULO
 
-This **_“Constitution”_** defines rules and processes for the governance and operations of an organization. The **_“Ratifiers”_** are adopting these rules as the formal authority structure for the **_“Organization”_** specified upon the Constitution’s adoption, which may be an entire entity or a part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its **_“Partners”_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
+Esta **_“Constituição”_** define regras e processos para a governança e as operações de uma organização. Os **_“Ratificantes”_** adotam estas regras como a estrutura formal de autoridade para a **_“Organização”_** especificadas aquando da aprovação da Constituição, que pode ser uma entidade completa ou parte de uma que os Ratificantes têm autoridade para governar e executar. Os Ratificantes e quaisquer outras pessoas que concordem em participar da governança e das operações da Organização (os seus **_“Parceiros”_**) podem invocar as autoridades concedidas por esta Constituição, e também concordam em se comprometer com os seus deveres e restrições.
 
-## Article I: Energizing Roles
+## Artigo I: Energizando Papéis
 
-### 1.1 Definition of a Role
+### 1.1 Definição de um Papel
 
-The Organization’s Partners will typically perform work for the Organization by acting in an explicitly defined Role. A **_“Role”_** is an organizational construct with a descriptive name and one or more of the following:
+Os Parceiros da Organização normalmente trabalharão para a Organização agindo através de um Papel explicitamente definido. Um **_“Papel”_** é uma construção organizacional com um nome descritivo e um ou mais dos seguintes:
 
-- **(a)** a **_“Purpose”_**, which is a capacity, potential, or unrealizable goal that the Role will pursue or express on behalf of the Organization.
-- **(b)** one or more **_“Domains”_**, which are things the Role may exclusively control and regulate as its property, on behalf of the Organization.
-- **(c)** one or more **_“Accountabilities”_**, which are ongoing activities of the Organization that the Role will enact.
+- **(a)** um **_“Propósito”_**, que é uma capacidade, potencial, ou objetivo inatingível que o Papel perseguirá ou expressará em nome da organização.
+- **(b)** um ou mais **_“Domínios”_**, que são coisas que o Papel pode exclusivamente controlar e regular como sua propriedade, em nome da Organização.
+- **(c)** uma ou mais **_“Responsabilidades”_**, que são atividades organizacionais recorrentes que o Papel irá desempenhar.
 
-### 1.2 Responsibilities of Role-Filling
+### 1.2 Responsabilidades de Desempenho de Papéis
 
-As a Partner of the Organization, you have the following responsibilities for each Role that you are assigned to and agree to fill:
+Como um Parceiro da Organização, você tem as seguintes responsabilidades para cada Papel que lhe é atribuído e concorda em desempenhar:
 
-#### 1.2.1 Processing Tensions
+#### 1.2.1 Processar Tensões
 
-You are responsible for monitoring how your Role’s Purpose and Accountabilities are expressed, and comparing that to your vision of their ideal potential expression, to identify gaps between the current reality and a potential you sense (each gap is a **_“Tension”_**). You are also responsible for trying to resolve those Tensions by using the authorities and other mechanisms available to you under this Constitution.
+Você é responsável por monitorar de que maneira o Propósito e as Responsabilidades do seu Papel são expressos, e comparar isso com a sua visão de potencial ideal de expressão, para identificar lacunas entre a realidade atual e uma realidade potencial que você sente (cada lacuna é uma **_“Tensão”_**). Você é também responsável por tentar resolver estas Tensões usando as autoridades e outros mecanismos disponíveis para você nos termos desta Constituição.
 
-#### 1.2.2 Processing Purpose & Accountabilities
+#### 1.2.2 Processar Propósito e Responsabilidades
 
-You are responsible for regularly considering how to enact your Role's Purpose and each of your Role’s Accountabilities, by defining:
+Você é responsável por analisar regularmente como promulgar o Propósito e cada uma das Responsabilidades do seu Papel, definindo:
 
-- **(a)** **_“Next-Actions”_**, which are actions you could execute immediately and that would be useful to execute immediately, at least in the absence of competing priorities; and
-- **(b)** **_“Projects”_**, which are specific outcomes that require multiple sequential actions to achieve and that would be useful to work towards, at least in the absence of competing priorities.
+- **(a)** **_“Próximas Ações”_**, que são ações que você pode executar imediatamente e que seria útil executar imediatamente, pelo menos na ausência de prioridades concorrentes; e
+- **(b)** **_“Projetos”_**, que são resultados específicos que requerem múltiplas ações sequencias para atingi-los e que seriam úteis para trabalhar em prol, pelo menos na ausência de prioridades concorrentes.
 
-#### 1.2.3 Processing Projects
+#### 1.2.3 Processar Projetos
 
-You are responsible for regularly considering how to complete each Project you are actively working towards for your Role, including by defining any Next-Actions useful to move the Project forward.
+Você é responsável por analisar regularmente como completar cada Projeto que você está trabalhando ativamente em relação ao seu Papel, incluindo a definição de quaisquer Próximas Ações úteis para levar o Projeto adiante.
 
-#### 1.2.4 Tracking Projects, Next-Actions, & Tensions
+#### 1.2.4 Acompanhar Projetos, Próximas Ações & Tensões
 
-You are responsible for capturing and tracking all Projects and Next-Actions for your Role in a database or similar tangible form, and for regularly reviewing and updating that database to maintain it as a trusted list of the Role’s active and potential work. You are also responsible for tracking any Tensions you identify for your Role, at least until you process them into desired Projects or Next-Actions, or otherwise resolve them.
+Você é responsável por capturar e acompanhar todos os Projetos e Próximas Ações para o seu Papel em um banco de dados ou outra forma tangível similar, e por regularmente rever e atualizar esse banco de dados de modo a mantê-lo como uma lista confiável do trabalho ativo e potencial do seu Papel. Você também é responsável por rastrear quaisquer Tensões que você identifique para o seu Papel, pelo menos até que você as processe nos desejados Projetos e Próximas Ações, ou as resolva de outra forma.
 
-#### 1.2.5 Directing Attention & Resources
+#### 1.2.5 Direcionar Atenção e Recursos
 
-Whenever you have time available to act in your Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization from among that subset.
+Sempre que você tiver tempo disponível para atuar no seu Papel, você é responsável por considerar as Próximas Ações em potencial que você pode desempenhar de forma eficiente e eficaz nesse ponto do tempo, e executar aquelas que você acredita que poderiam acrescentar mais valor à Organização.
 
-### 1.3 Authority to Act
+### 1.3 Autoridade para Agir
 
-As a Partner assigned to a Role, you have the authority to execute any Next-Actions you reasonably believe are useful for enacting your Role’s Purpose or Accountabilities.
+Como um Parceiro designado a um Papel, você tem a autoridade de executar quaisquer Próximas Ações que você acredita serem razoavelmente úteis para promulgar o Propósito ou as Responsabilidades do seu Papel.
 
-However, you cannot exert control or cause a material impact within a Domain owned by another Role or another sovereign entity, unless you have their permission. The authority granted in this paragraph is further limited by Section 2.1.3.
+Contudo, você não pode exercer controle ou causar impacto material em um Domínio que é propriedade de outro Papel ou outra entidade soberana, a menos que você tenha permissão para isso. A autoridade concedida nesse parágrafo é mais adiante limitada pelo item 2.1.3.
 
-### 1.4 Authority Over Domains
+### 1.4 Autoridade sobre Domínios
 
-As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role. You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.
+Como um Parceiro designado a um Papel, você tem a autoridade de controlar e regular cada Domínio do seu Papel. Você pode fazer isso analisando caso a caso quando outros solicitarem permissão para impactar um de seus domínios considerando a solicitação e permitindo ou rejeitando a permissão.
 
-You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized. Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.
+Você também pode definir **_“Políticas”_** para seus Domínios, que são ou concessões de autoridade que permitem que outros controlem ou causem impacto material em um Domínio, ou limites sobre como os outros podem fazê-lo quando autorizados. Antes de uma Política ser considerada válida, você deve primeiro publicá-la em um fórum conveniente para todos os Parceiros que podem ser impactados.
 
-The authorities granted to you in this section may be further limited by constraints defined under Section 2.1.3.
+As autoridades concedidas a você nesta seção podem ser ainda limitadas por restrições definidas no item 2.1.3.
 
-
-## Article II: Circle Structure
-
+## Artigo II: Estrutura de Círculos
 ### 2.1 Circle Basics
 
 A **_“Circle”_** is a Role that may further break itself down by defining its own contained Roles to achieve its Purpose, control its Domains, and enact its Accountabilities. The Roles a Circle defines are its **_“Defined Roles”_**, and anyone filling one of its Defined Roles is a **_“Circle Member”_** of that Circle.
