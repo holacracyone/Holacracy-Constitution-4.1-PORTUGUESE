@@ -260,198 +260,198 @@ O Círculo Alvo pode também delegar a exigência de receber um elo para um de s
 
 Em ambos os casos, qualquer delegação deve ser feita por meio de uma Política do Circulo que o esteja fazendo. Além disso, qualquer mudança ou delegação deve ainda se alinhar com quaisquer restrições ou orientações especificadas na Política de Elo Transversal que estendeu o convite para ligar, em primeiro lugar.
 
-## Article III: Governance Process
+## Artigo III: Processo de Governança
 
-### 3.1 Scope of Governance
+### 3.1 Escopo da Governança
 
-The Governance Process of a Circle has the power to:
+O Processo de Governança de um Círculo tem o poder de:
 
-- **(a)** define, amend, or remove the Circle’s Roles and Sub-Circles; and
-- **(b)** define, amend, or remove the Circle’s Policies; and
-- **(c)** hold elections for the Circle’s Elected Roles.
+- **(a)** definir, emendar ou remover os Papéis do Círculo ou os Subcírculos; e
+- **(b)** definir, emendar ou remover as Políticas do Círculo; e
+- **(c)** realizar eleições para os Papéis Eleitos do Círculo.
 
-At any given time, the then-current results of a Circle’s Governance Process define its acting **_“Governance”_**.
+A qualquer momento, os resultados então atuais de um Processo de Governança de um Círculo definem a sua **_“Governança”_** em vigor.
 
-Only those outputs listed in this section are valid Governance for a circle; no one may capture other outputs within the Circle’s Governance records.
+Somente os resultados listados nesta seção constituem Governança válida para um círculo; ninguém pode capturar outros resultados dentro dos registros de Governança do Círculo.
 
-### 3.2 Changing Governance
+### 3.2 Alterando a Governança
 
-Any Core Circle Member of a Circle may propose changing its Governance, thus making a **_“Proposal”_** as a **_“Proposer”_**.
+Qualquer Membro Principal de um Círculo pode propor mudar a sua Governança, deste modo, fazendo uma **_“Proposta”_** como um **_“Proponente”_**.
 
-Before a Proposal is adopted, all Core Circle Members must have the opportunity to raise Tensions about adopting the Proposal. Each Tension so raised is considered an **_“Objection”_** if it meets the criteria defined in this section, and the person who raised it becomes the **_“Objector”_**.
+Antes de uma Proposta ser adotada, todos os Membros Principais do Círculo devem ter a oportunidade de levantar Tensões sobre a adoção da Proposta. Cada Tensão levantada desta forma é considerada uma **_“Objeção”_** se cumprir os critérios definidos nesta seção, e a pessoa que a levantou torna-se o **_“Objetor”_**.
 
-Proposals are considered adopted and amend the Governance of the Circle only if no Objections are so raised. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle may adopt the Proposal, after which all Core Circle Members must have another opportunity to raise further Objections before the Proposal is adopted.
+Propostas são consideradas adotadas e emendam a Governança do Círculo somente se nenhuma Objeção for então levantada. Se Objeções forem levantadas, o Proponente e cada Objetor devem encontrar uma maneira de endereçar as Objeções antes que o Círculo possa adotar a Proposta, após o qual todos os Membros Principais do Círculo devem ter outra oportunidade de levantar outras Objeções antes que a Proposta seja adotada.
 
-#### 3.2.1 Making Proposals
+#### 3.2.1 Fazendo Propostas
 
-Any Core Circle Member may make a Proposal within a **_“Governance Meeting”_** of the Circle called under the terms of Section 3.3.
+Qualquer Membro Principal do Círculo pode fazer uma Proposta dentro de uma **_“Reunião de Governança”_** do Círculo convocada nos termos do item 3.3.
 
-Alternatively, a Core Circle Member may distribute a Proposal to all other Core Circle Members asynchronously, outside of a Governance Meeting, using any written communication channel approved for this purpose by the Circle’s Secretary. When this happens, the Facilitator may either apply the same process and rules used within a Governance Meeting, or may allow each Core Circle Member to directly declare whether or not he or she has Objections to integrate. Further, at any point before an asynchronous Proposal is adopted, the Facilitator or any Core Circle Member may stop the asynchronous processing by requesting the Proposer escalate the Proposal to a Governance Meeting, and notifying the Circle’s Secretary.
+De forma alternativa, um Membro Principal do Círculo pode distribuir uma Proposta para todos os Membros Principais do Círculo de forma assíncrona, fora de uma Reunião de Governança, usando qualquer canal de comunicação por escrito, aprovado para este fim pelo Secretário do Círculo. Quando isso acontece, o Facilitador pode aplicar ou o mesmo processo e as regras usadas dentro de uma Reunião de Governança, ou pode permitir que cada Membro Principal do Círculo declare diretamente se ou não ele ou ela possui alguma Objeção para integrar. Além disso, em qualquer ponto antes que uma Proposta assíncrona seja adotada, o Facilitador ou qualquer Membro Principal do Círculo pode parar o processamento assíncrono solicitando que o Proponente escale a Proposta para uma Reunião de Governança e notificando o Secretário do Círculo.
 
-A Circle may adopt Policies to further constrain when or how Proposals may be made or processed outside of a Governance Meeting. However, no Policy may limit the right to stop asynchronous processing by escalating to a Governance Meeting. A Circle may also use a Policy to create a time limit for responding to asynchronous Proposals, upon which any asynchronous Proposal is automatically adopted if no Objections or escalation requests are raised.
+Um Círculo pode adotar Políticas para restringir ainda mais quando ou como Propostas podem ser feitas ou processadas fora de uma Reunião de Governança. Contudo, nenhuma Política pode limitar o direito de parar um processamento assíncrono, escalando para uma Reunião de Governança. Um Círculo pode também usar uma Política para criar um tempo limite de resposta a Propostas assíncronas, sobre os quais qualquer Proposta assíncrona é automaticamente adotada se nenhuma Objeção ou requisições para escalar são levantadas.
 
-#### 3.2.2 Criteria for Valid Proposals
+#### 3.2.2 Critérios para Propostas Válidas
 
-Some Proposals are disallowed within a Circle’s Governance Process, and the Facilitator may discard these before they are fully processed.
+Algumas Propostas não são permitidas dentro de um Processo de Governança de um Círculo, e o Facilitador poderá descartá-las antes que sejam completamente processadas.
 
-To be valid for processing, a Proposal must resolve or reduce a Tension sensed by the Proposer. In addition, a Proposal must normally help the Proposer better express the Purpose or an Accountability of one of the Proposer’s Roles in the Circle. However, a Proposal may alternatively help another Circle Member better express one of that person’s Roles in the Circle, but only if that person has granted the Proposer permission to represent that Role.
+Para ser válida para processamento, a Proposta deve resolver ou reduzir uma Tensão sentida pelo Proponente. Além disso, a Proposta deve, normalmente, auxiliar o Proponente a melhor expressar o Propósito ou Responsabilidades de um dos Papéis do Proponente no Círculo. Contudo, uma Proposta pode, alternativamente, auxiliar um outro membro do Círculo a melhor expressar um dos Papéis daquela pessoa no Círculo, mas apenas se essa pessoa tiver concedido permissão para o Proponente representar esse Papel.
 
-Finally, a Proposal is always valid regardless of the preceding criteria if it is made solely to help evolve the Circle’s Governance to more clearly reflect activity that is already happening, or to trigger a new election for any Elected Role.
+Finalmente, uma Proposta é sempre válida, independentemente dos critérios anteriores, se for feita exclusivamente para ajudar a evoluir a Governança do Círculo para mais claramente refletir a atividade que já está acontecendo, ou para desencadear uma nova eleição para qualquer Papel Eleito.
 
-#### 3.2.3 Testing Proposals
+#### 3.2.3 Testando Propostas
 
-The Facilitator may test the validity of a Proposal by asking the Proposer questions. For a Proposal to survive the test, the Proposer must be able to describe the Tension, and give an example of an actual past or present situation in which the Proposal would have reduced that Tension and helped the Circle in one of the ways allowed by the prior section. The Facilitator must discard the Proposal if the Facilitator deems the Proposer has failed to meet this threshold.
+O Facilitador poderá testar a validade de uma Proposta fazendo perguntas ao Proponente. Para uma Proposta sobreviver ao teste, o Proponente deve ser capaz de descrever a Tensão e dar um exemplo de uma situação passada ou presente em que a Proposta teria reduzido a Tensão e auxiliado o Círculo em alguma das formas permitidas na seção anterior. O Facilitador deve descartar a Proposta se o Facilitador considerar que o Proponente falhou em cumprir esse limite.
 
-However, when assessing the validity of a Proposal, the Facilitator may only judge whether the Proposer presented the required example and explanations, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of their accuracy, nor on whether the Proposal would adequately address the Tension.
+Contudo, ao avaliar a validade de uma Proposta, o Facilitador pode apenas julgar se o Proponente apresentou o exemplo e as explicações necessárias, e se elas foram apresentadas seguindo um raciocínio lógico, e são, portanto, razoáveis. O Facilitador não pode fazer um julgamento com base na precisão delas, nem sobre se a Proposta iria endereçar adequadamente a Tensão.
 
-#### 3.2.4 Criteria for Valid Objections
+#### 3.2.4 Critérios para Objeções Válidas
 
-Some Tensions do not count as Objections, and may be ignored during the processing of a Proposal. A Tension only counts as an Objection if it meets **all** of the criteria defined in (a) through (d) below, or the special criteria defined in (e):
+Algumas Tensões não contam como Objeções e podem ser ignoradas durante o processamento de uma Proposta. Uma Tensão somente conta como uma Objeção se ela satisfazer **todos** os critérios definidos abaixo de (a) a (d), ou o critério especial definido em (e):
 
-- **(a)** If the Tension were unaddressed, the capacity of the Circle to express its Purpose or enact its Accountabilities would degrade. Thus, the Tension is not just triggered by a better idea or a potential for further improvement, but because the Proposal would actually move the Circle backwards in its current capacity. For the purpose of this criteria, decreasing clarity counts as degrading capacity, although merely failing to improve clarity does not.
-- **(b)** The Tension does not already exist for the Circle even in the absence of the Proposal. Thus, the Tension would be created specifically by adopting the Proposal, and would not exist were the Proposal withdrawn.
-- **(c)** The Tension is triggered just by presently known facts or events, without regard to a prediction of what might happen in the future. However, relying on predictions is allowed when no opportunity to adequately sense and respond is likely to exist in the future before significant impact could result.
-- **(d)** The Tension limits the Objector's capacity to express the Purpose or an Accountability of one of the Objector’s Roles in the Circle; or, if it limits another Role, the Objector has permission to represent that Role from a Circle Member who normally fills the Role.
+- **(a)** Se a Tensão não fosse endereçada, a capacidade do Círculo em expressar o seu Propósito ou promulgar as suas Responsabilidades degradaria. Assim, a Tensão não é apenas desencadeada por uma ideia melhor ou potencial de melhoria, mas porque a Proposta iria de fato mover o Círculo para trás em sua capacidade atual. Para efeitos deste critério, a diminuição da clareza conta como degradação da capacidade, embora meramente falhar em melhorar a clareza não conte.
+- **(b)** A Tensão já não existe para o Círculo, mesmo na ausência da Proposta. Assim, a Tensão seria criada especificamente adotando a Proposta, e não existiria se a Proposta fosse retirada.
+- **(c)** A Tensão é desencadeada apenas por fatos ou eventos presentemente conhecidos, sem levar em conta uma previsão sobre o que poderia acontecer no futuro. Contudo, basear-se em previsões é permitido quando nenhuma oportunidade de sentir e responder adequadamente é suscetível de existir no futuro antes que impacto significativo possa ocorrer.
+- **(d)** A Tensão limita a capacidade do Objetor em expressar o Propósito ou as Responsabilidades de um dos Papéis do Objetor no Círculo; ou, se ela limita outro Papel, o Objetor tem permissão para representar este Papel que um Membro do Círculo normalmente desempenha.
 
-However, regardless of the above criteria, a Tension about adopting a Proposal always counts as an Objection if:
+Contudo, independentemente dos critérios acima, uma Tensão a respeito de adotar uma Proposta sempre conta como uma Objeção se:
 
-- **(e)** Processing or adopting the Proposal breaks the rules defined in this Constitution, or prompts the Circle or its members to act outside of the authority granted under this Constitution. For example, Next-Actions, Projects, and specific operational decisions are typically not valid Governance outputs per the terms of Section 3.1, so anyone involved could raise an Objection that a Proposal to enact these outputs would violate the rules of the Constitution.
+- **(e)** Processar ou a adotar a Proposta viola as regras definidas nesta Constituição, ou solicita o Círculo ou os seus membros a agirem fora da autoridade concedida nos termos desta Constituição. Por exemplo, Próximas Ações, Projetos e decisões operacionais específicas não são, tipicamente, resultados válidos de Governança pelos termos do item 3.1, então, qualquer um poderia levantar uma Objeção que a Proposta, ao decretar que estes resultados, viola as regras da Constituição.
 
-#### 3.2.5 Testing Objections
+#### 3.2.5 Testando Objeçes
 
-The Facilitator may test the validity of a claimed Objection by asking the Objector questions. For a claimed Objection to survive the test, the Objector must be able to present a reasonable argument for why it meets each specific criteria required of an Objection. The Facilitator must discard an Objection if the Facilitator deems the Objector has failed to meet this threshold.
+O Facilitador pode testar a validade de uma Objeção alegada fazendo perguntas ao Objetor. Para que uma Objeção alegada sobreviva ao teste, o Objetor deve ser capaz de apresentar argumentos razoáveis sobre como ela atende cada um dos critérios exigidos de uma Objeção. O Facilitador deve descartar uma Objeção se ele considerar que o Objetor falhou em cumprir esse limite.
 
-When assessing the validity of a claimed Objection, the Facilitator may only judge whether the Objector presented the required arguments, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of an argument’s accuracy or the importance of addressing it.
+Ao avaliar a validade de uma Objeção alegada, o Facilitador pode apenas julgar se o Objetor apresentou os argumentos exigidos e se eles foram apresentados seguindo um raciocínio lógico, e são, portanto, razoáveis. O Facilitador não pode fazer um julgamento com base na precisão de um argumento ou na importância de endereçá-lo.
 
-However, when an Objection is claimed on the basis of a Proposal violating the Constitution, per Section 3.2.4(e), the Facilitator may ask the Circle’s Secretary to interpret if the Proposal does indeed violate the Constitution. If the Secretary rules that it does not, the Facilitator must then dismiss the Objection.
+Contudo, quando uma Objeção é alegada a partir de uma Proposta que viola a Constituição, pelo item 3.2.4(e), o Facilitador pode pedir ao Secretário do Círculo que interprete se a Proposta, de fato, viola a Constituição. Se o Secretário determinar que ela o faz, o Facilitador deve então descartar a Objeção.
 
-#### 3.2.6 Rules of Integration
+#### 3.2.6 Regras de Integração
 
-When an Objection to a Proposal is raised, the following additional rules apply during the search for a resolution:
+Quando uma Objeção a uma Proposta é levantada, as seguintes regras adicionais aplicam-se durante a busca pela resolução:
 
-- **(a)** The Facilitator must test an Objection if requested by any Core Circle Member, and discard it if it fails to meet the validity criteria described in this Section.
-- **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. Others may help. If the Facilitator concludes that the Objector is not making a good faith effort to find a potential amendment at any point, then the Facilitator must deem the Objection abandoned and continue processing the Proposal as if the Objection had not been raised.
-- **(c)** Any Core Circle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator concludes that the Proposer is not making a good faith effort to answer those questions at any point, then the Facilitator must deem the Proposal invalid for processing and abandoned.
-- **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve or prevent the Tension in each specific situation the Proposer used to illustrate the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve or prevent the Tension in at least one specific situation already presented. Alternatively, the Proposer may add an additional example that the amended Proposal would not resolve, but which still meets the criteria for processing a Proposal required by Section 3.2.2. If the Facilitator concludes that the Proposer has failed to meet one of these thresholds, then the Facilitator must deem the Proposal invalid for processing and abandoned.
+- **(a)** O Facilitador deve testar uma Objeção se solicitado por qualquer Membro Principal do Círculo e descartá-la se ela falhar em cumprir os critérios de validade descritos nesta seção;
+- **(b)** O Objetor deve tentar encontrar uma emenda para a Proposta que resolva a Objeção e ainda enderece a Tensão do Proponente. Outros podem ajudar. Se o Facilitador concluir que o Objetor não está fazendo um esforço de boa fé em encontrar uma emenda potencial em qualquer ponto, então o Facilitador deve considerar a Objeção abandonada e continuar processando a Proposta como se a Objeção não tivesse sido levantada.
+- **(c)** Qualquer Membro Principal do Círculo pode fazer perguntas esclarecedoras ao Proponente sobre a Tensão por trás da Proposta, ou sobre quaisquer exemplos que o Proponente compartilhou ao ilustrar a Tensão. Se o Facilitador concluir que o Proponente não está fazendo um esforço de boa fé em responder às questões em qualquer ponto, então o Facilitador deve considerar a Proposta inválida para processamento e abandonada.
+- **(d)** O Objetor pode sugerir uma Proposta emendada e oferecer argumentos razoáveis sobre porque ela deveria resolver ou prevenir a Tensão em cada situação específica que o Proponente usou para ilustrar a Tensão. Então, a pedido do Objetor, o Proponente deve apresentar argumentos razoáveis sobre porque a Proposta emendada falharia em resolver ou prevenir a Tensão em pelo menos uma situação específica apresentada. Alternativamente, o Proponente pode acrescentar exemplos adicionais que a Proposta emendada não resolveria, mas que ainda cumpre os critérios para processamento de uma Proposta exigidos pelo item 3.2.2. Se o Facilitador concluir que o Proponente falhou em cumprir esses limites, então o Facilitador deve considerar a Proposta inválida para processamento e abandonada.
 
-### 3.3 Governance Meetings
+### 3.3 Reuniões de Governança
 
-The Secretary of a Circle is responsible for scheduling Governance Meetings to enact the Circle’s Governance Process.
+O Secretário do Círculo é responsável por agendar as Reuniões de Governança para promulgar o Processo de Governança do Círuclo.
 
-In addition to any regular, recurring Governance Meetings the Secretary schedules, the Secretary is responsible for scheduling additional special Governance Meetings promptly upon request of any Core Circle Member. 
+Além de quaisquer Reuniões de Governança regulares e recorrentes que o Secretário agende, o Secretário é responsável por prontamente agendar Reuniões de Governança adicionais e especiais a pedido de qualquer Membro Principal do Círculo.
 
-The Facilitator is responsible for presiding over all Governance Meetings in alignment with the following rules and any relevant Policies of the Circle.
+O Facilitador é responsável por presidir todas as Reuniões de Governança em alinhamento com as seguintes regras e quaisquer Políticas relevantes do Círculo.
 
-#### 3.3.1 Attendance
+#### 3.3.1 Comparecimento
 
-All Core Circle Members are entitled to fully participate in all Governance Meetings of a Circle. The acting Facilitator and Secretary are also entitled to fully participate, and become Core Circle Members for the duration of a Governance Meeting even if they are not normally Core Circle Members.
+Todos os Membros Principais do Círculo têm direito a participar plenamente de todas as Reuniões de Governança de um Círculo. O Facilitator e o Secretário em exercício também têm o direito de participar plenamente, e tornam-se Membros Principais do Círculo durante a Reunião de Governança, mesmo que eles não sejam normalmente Membros Principais do Círculo.
 
-In addition, the Lead Link and any Rep Links or Cross Links to the Circle may each invite up to one additional person, solely to aid the link in processing a specific Tension. The invited participant then becomes a Core Circle Member as well for the duration of that Governance Meeting.
+Além disso, o Elo Principal e quaisquer Elos Representativos ou Elos Transversais do Círculo podem, cada um, convidar até uma pessoa adicional, apenas para auxiliar o elo a processar uma Tensão específica. O participante convidado torna-se então um Membro Principal do Círculo durante a Reunião de Governança.
 
-Beyond those listed in this paragraph, no one else is allowed to participate in a Circle’s Governance Meetings unless explicitly invited by a Policy of the Circle.
+Além daqueles listados nesta seção, ninguém mais está autorizado a participar das Reuniões de Governança do Círculo, a menos que explicitamente convidado por uma Política do Círculo.
 
-#### 3.3.2 Notice & Quorum
+#### 3.3.2 Aviso Prévio & Quórum
 
-A Circle may only conduct its Governance Process in a meeting if the Secretary has given all Core Circle Members reasonable advance notice that a Governance Meeting will be held, including its time and location.
+Um Círculo pode apenas conduzir o seu Processo de Governança em uma reunião se o Secretário comunicar antecipadamente todos os Membros Principais do Círculo que uma Reunião de Governança será realizada, incluindo o horário e a localização.
 
-Beyond this notice requirement, there is no quorum required for a Circle to conduct a Governance Meeting, unless one is specified by a Policy of the Circle.
+Além dessa exigência de aviso, não há quórum exigido para um Círculo conduzir a sua Reunião de Governança, a menos que alguém tenha sido especificado por uma Política do Círculo.
 
-Anyone who fails to attend a Governance Meeting counts as having had the opportunity to consider all Proposals made within the meeting, and raised no Objections to their adoption.
+Qualquer um que não participar de uma Reunião de Governança conta como se tivesse tido a oportunidade de considerar todas as Propostas feitas na reunião e não ter levantado nenhuma Objeção as suas adoções.
 
-#### 3.3.3 Meeting Process
+#### 3.3.3 Processo da Reunião
 
-The Facilitator must use the following process for Governance Meetings:
+O Facilitador deve usar o seguinte processo para Reuniões de Governança:
 
-- **(a) Check-in Round:** The Facilitator allows each participant in turn to share their current state or thoughts, or offer another type of opening comment for the meeting. Responses are not allowed.
-- **(b) Administrative Concerns:** The Facilitator allows space to discuss and resolve any administrative or logistical matters the Facilitator deems worthy of attention.
-- **(c) Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
-- **(d) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
+- **(a) Rodada de Check-in:** O Facilitador permite que cada participante, um de cada vez, compartilhe o seu estado atual ou pensamentos, ou ofereça algum outro tipo de comentário de abertura para a reunião. Respostas não são permitidas.
+- **(b) Preocupações Administrativas:** O Facilitador concede espaço para discutir e resolver quaisquer assuntos administrativos ou logísticos que o Facilitador considerar digno de atenção.
+- **(c) Construção da Pauta & Processamento:** O Facilitador constrói uma agenda de Tensões a serem processadas, e então processa cada item da pauta em ordem.
+- **(d) Rodada de Encerramento:** O Facilitador permite que cada participante, um de cada vez, compartilhe uma reflexão de encerramento ou outro pensamento desencadeado pela reunião. Respostas não são permitidas.
 
-A Policy of the Circle may add to this process, but may not conflict with any of the steps or other rules defined in this Article of the Constitution.
+Uma Política do Círculo poderá adicionar etapas a esse processo, mas não poderá colidir com quaisquer passos ou outras regras definidas neste Artigo da Constituição.
 
-#### 3.3.4 Agenda Building
+#### 3.3.4 Construção da Pauta
 
-The Facilitator must build an agenda of Tensions to process within a Governance Meeting by soliciting and capturing agenda items from all participants. This must be done within the meeting and not beforehand, and each participant may add as many agenda items as desired. Participants may add additional agenda items during the meeting as well, in between the processing of any existing agenda items.
+O Facilitador deve construir uma pauta de Tensões a serem processadas dentro de uma Reunião de Governança, solicitando e capturando ítens de pauta de todos os participantes. Isso deve ser feito dentro da reunião e não de antemão, e cada participante pode acrescentar quantos ítens de pauta desejar. Participantes podem adicionar outros ítens de pauta durante a reunião também entre o processamento de qualquer item existente da pauta.
 
-- **(a) Agenda Item Format:** Each agenda item in a Governance Meeting represents one Tension to process, sensed by the participant who added it to the agenda. When adding an agenda item, a participant may only provide a short label for the Tension, and may not explain or discuss the Tension further until processing of that agenda item actually begins.
-- **(b) Ordering the Agenda:** The Facilitator may determine the order in which to process agenda items, using any process or criteria the Facilitator deems appropriate. However, the Facilitator must place any agenda item calling for an election of any of the Circle’s Elected Roles before all other agenda items, if requested by any meeting participant. Further, if the meeting was scheduled at the special request of one participant, the Facilitator must place all agenda items raised by that participant before any raised by others, unless that participant allows otherwise.
-- **(c) Processing Agenda Items:** Once the Facilitator determines an initial order for the agenda, the Facilitator must lead participants through processing each agenda item, one at a time. To process an agenda item that calls for an election, the Facilitator must use the **_“Integrative Election Process”_** defined in Section 3.3.6. To process any other agenda item, the Facilitator must use the **_“Integrative Decision-Making Process”_** defined in Section 3.3.5.
+- **(a) Formato de Item da Pauta:** Cada item da pauta em uma Reunião de Governança representa uma Tensão a ser processada, sentida pelo participante que adicionou o item à pauta. Ao adicionar ítens de pauta, um participante somente poderá fornecer um rótulo curto para a Tensão, e não poderá explicar ou discutir a Tensão até que o processamento daquele item de pauta de fato comece.
+- **(b) Ordenando a Pauta:** O Facilitador poderá determinar a ordem em que processar os ítens da pauta, usando qualquer processo ou critério que o Facilitador considere apropriado. Contudo, o Facilitador deve colocar qualquer item de pauta convocando uma eleição de quaisquer Papéis Eleitos do Círculo antes de todos os outros ítens de pauta, se solicitado por qualquer participante da reunião. Além disso, se a reunião foi agendada a pedido especial de um participante, o Facilitador deve colocar todos os ítens de pauta levantados por este partcipante antes dos levantados por outros, a menos que esse participante permita o contrário.
+- ** (c) Processando Itens da Pauta:** Uma vez que o Facilitador determina a ordem inicial da pauta, o Facilitador deve conduzir os participantes através do processamento de cada item de pauta, um de cada vez. Para processar ítens que convoquem uma eleição, o Facilitador deve usar o **_“Processo Integrativo de Eleições”_** definido no item 3.3.6. Para processar qualquer outro item de pauta, o Facilitador deve usar o **_“Processo Integrativo de Tomada de Decisão”_** definida no item 3.3.5.
 
-#### 3.3.5 Integrative Decision-Making Process
+#### 3.3.5 Processo Integrativo de Tomada de Decisão
 
-The Facilitator must enact the Integrative Decision-Making Process as follows:
+O Facilitador deve promulgar o Processo Integrativo de Tomada de Decisão da seguinte forma:
 
-- **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address the Tension. If the Proposer requests help crafting a Proposal, the Facilitator may allow discussion or another collaborative process to assist. However, the Facilitator must focus this activity solely on crafting an initial Proposal for the Proposer’s Tension, and not on addressing other Tensions or integrating others’ concerns into the Proposal.
-- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, the other participants may ask clarifying questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must disallow any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Any participant may also ask the Secretary to read the captured Proposal or clarify any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
-- **(c) Reaction Round:** Once there are no further clarifying questions, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop and disallow any out-of-turn comments, any attempts to engage others in a dialog or exchange of any sort, and any reactions to other reactions instead of to the Proposal.
-- **(d) Amend & Clarify:** After the reaction round, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. During this step, the Facilitator must immediately stop and disallow any comments by anyone other than the Proposer or Secretary, and any engagement by the Secretary must focus solely on capturing the amended Proposal.
-- **(e) Objection Round:** Next, each participant, one at a time, may raise potential Objections to adopting the Proposal. The Facilitator must stop and disallow discussion or responses of any sort. The Facilitator may test Objections as described in Section 3.2.5, and must capture any valid Objections that remain after testing. If there are no valid Objections, the Secretary records the Proposal as adopted Governance for the Circle.
-- **(f) Integration:** If there are valid Objections, the Facilitator then facilitates a discussion to amend the Proposal to resolve each Objection, one at a time. The Facilitator marks an Objection as resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that the amended Proposal would still address the Proposer’s Tension. During the discussion, the Facilitator must apply the rules of integration described in Section 3.2.6. Once all captured Objections are addressed, the Facilitator moves back to the Objection round to check for new Objections to the amended Proposal.
+- **(a) Apresentar Proposta**: Primeiro, o Proponente pode descrever a Tensão e apresentar uma Proposta que enderece a Tensão. Se o Proponente pedir ajuda para elaborar uma Proposta, o Facilitador pode permitir discussão ou outro processo colaborativo para ajudar. Contudo, o Facilitador deve focar esta atividade exclusivamente na elaboração de uma Proposta inicial para a Tensão do Proponente, e não em endereçar ourtas Tensões ou integrar as preocupações de outras pessoas na Proposta.
+- **(b) Perguntas Esclarecedoras:** Uma vez que o Proponente fizer uma Proposta, os outros participantes podem fazer perguntas esclarecedoras para compreender melhor a Proposta ou a Tensão por trás desta. O Proponente pode responder cada pergunta, ou pode se recusar a fazê-lo. O Facilitador deve rejeitar quaisquer reações ou opiniões expressas sobre a Proposta, e prevenir discussões de qualquer tipo. Qualquer participante também pode pedir ao Secretário que leia a Proposta capturada ou esclareça qualquer Governança existente durante esta etapa ou em qualquer outro momento em que o participante é autorizado a falar, e o Secretário deve fazê-lo.
+- **(c) Rodada de Reações:** Uma vez que não existam mais perguntas esclarecedoras, cada participante, exceto o Proponente, pode compartilhar reações à Proposta, um de cada vez. O Facilitador deve imediatamente parar e impedir comentários fora da vez, quaisquer tentativas de engajar outros em um diálogo ou troca de qualquer tipo, e quaisquer reações às reações dos outros ao invés de reações à Proposta.
+- **(d) Emendar & Esclarecer:** Após a rodada de reações, o Proponente pode compartilhar comentários em resposta às reações e fazer alterações na Proposta. Contudo, a intenção primária de qualquer alteração deve ser de melhor endereçar a Tensão do Proponente, e não Tensões levantadas por outros. Durante esta etapa, o Facilitador deve imediatamente parar e impedir quaisquer comentários por outra pessoa que não o Proponente ou Secretário, e qualquer engajamento do Secretário deve se concentrar exclusivamente na captura da Proposta alterada.
+- **(e) Rodada de Objeções:** Em seguida, cada participante, um de cada vez, pode levantar Objeções potenciais à adoção da Proposta. O Facilitador deve parar e impedir discussões ou respostas de qualquer tipo. O Facilitador pode testar as Objeções conforme descrito no item 3.2.5, e deve capturar quaisquer Objeções válidas que permanecerem depois de testar. Se não houverem Objeções válidas, o Secretário registra a Proposta como Governança adotada pelo Círculo.
+- **(f) Integração:** Se houverem Objeções válidas, o Facilitador então facilita a discussão para emendar a Proposta para resolver cada Objeção, uma de cada vez. O Facilitador marca uma Objeção como resolvida uma vez que o Objetor confirmar que a Proposta emendada não desencadeia a Objeção e que o Proponente confirmar que a Proposta emendada ainda endereça a Tensão do Proponente. Durante a discussão, o Facilitador deve aplicar as regras de integração descritas no item 3.2.6. Uma vez que todas as Objeções capturadas são endereçadas, o Facilitador move o processo de volta para a rodada de Objeções para verificar se existem novas Objeções para a Proposta emendada.
 
-#### 3.3.6 Integrative Election Process
+#### 3.3.6 Processo Integrativo de Eleições
 
-The Facilitator must enact the Integrative Election Process as follows:
+O Facilitador deve promulgar o Processo Integrativo de Eleições da seguinte forma:
 
-- **(a) Describe Role:** First, the Facilitator must identify the target Role and term for the election. The Facilitator may also describe the functions of the target Role, and present other relevant information about the Role.
-- **(b) Fill Out Ballots:** Each participant must then fill out a ballot to nominate whomever the participant believes is the best fit for the Role among all eligible candidates. Each participant must label the ballot with his or her own name as well, and no one may abstain or nominate multiple people. Before and during this step, the Facilitator must promptly stop all comments or discussion about potential candidates or nominations.
-- **(c) Nomination Round:** Once all ballots are submitted, the Facilitator must share the contents of each ballot, one at a time, with all participants. When the Facilitator shares a nomination, the nominator must state why he or she believes that candidate would be a good fit for the Role. The Facilitator must stop any responses or other comments, as well as any comments by a nominator about other potential candidates besides the nominee.
-- **(d) Nomination Change Round:** Once all nominations are shared, the Facilitator must give each participant the opportunity to change his or her nomination. A participant making a change may explain his or her reason for selecting a new candidate, but the Facilitator must stop any other comments or discussion.
-- **(e) Make a Proposal:** Next, the Facilitator must count the nominations and make a Proposal to elect the candidate with the most nominations for the specified term. If there is a tie for the most nominations, then the Facilitator may do any one of the following: (i) blindly select one of the tied candidates randomly, and propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) if only one of the tied candidates has nominated himself or herself, propose that person; or (iv) go back to the previous step and require each participant who nominated someone other than a tied candidate to change that nomination to one of the tied candidates, then continue back to this step and re-apply its rules.
-- **(f) Process Proposal:** Once the Facilitator makes a Proposal to elect a candidate, the Facilitator must move to the Integrative Decision-Making Process to resolve that Proposal. However, the Facilitator must start directly with the Objection round, and, if the proposed candidate is present, the Facilitator must ask the candidate for Objections last. If any Objections are raised, the Facilitator may choose to process them normally, or to discard the Proposal either immediately after the Objection round or at any point during the integration step. If the Facilitator opts to discard the Proposal, the Facilitator must go back to the prior step in this process, discard all nominations for the prior candidate, and follow the rules of the prior step to select another candidate to propose instead.
+- **(a) Descrever Papel**: Primeiro, o Facilitador deve identificar o Papel alvo e o prazo de vigência da eleição. O Facilitador deve também descrever as funções do Papel alvo, e apresentar outras informações pertinentes sobre o Papel.
+- **(b) Preencher Cédulas**: Cada participante deve então preencher uma cédula para nomear qualquer participante que ele acredita ser mais adequado ao Papel entre todos os candidatos elegíveis. Cada participante deve identificar a cédula com o seu nome também, e ninguém pode abster-se ou nomear múltiplas pessoas. Antes e durante esta etapa, o Facilitador deve imediatamente parar todos os comentários ou discussões sobre potenciais candidatos ou nominações.
+- **(c) Rodada de Nomeação**: Uma vez que todas as cédulas são submetidas, o Facilitador deve compartilhar o conteúdo de cada cédula, um de cada vez, com todos os participantes. Quando o Facilitador compartilha uma nomeação, o nomeador deve indicar porque ele ou ela acredita que o candidato é adequado para o Papel. O Facilitador deve parar quaisquer respostas ou outros comentários, bem como quaisquer comentários por um nomeador sobre outros potenciais candidatos além do nomeado.
+- **(d) Rodada de Mudança de Nomeação**: Uma vez que todas as nomeações são compartilhadas, o Facilitador deve dar a cada participante a oportunidade de mudar a sua nomeação. Um participante que faz uma mudança pode explicar a razão por selecionar um novo candidato, porém o Facilitador deve parar quaisquer comentários ou discussões.
+- **(e) Fazer uma Proposta**: Em seguida, o Facilitador deve contar as nomeações e fazer uma Proposta para eleger o candidato com o maior número de nomeações pelo prazo de vigência especificado. Se houver um empate entre os mais nomeados, então o Facilitador pode adotar qualquer uma das seguintes opções: a) cegamente selecionar um dos candidatos empatados de forma aleatória e propor aquela pessoa; ou b) se a pessoa que atualmente desempenha o Papel estiver entre os empatados, propor aquela pessoa; ou c) se apenas um dos candidatos nomeou a si mesmo, propor aquela pessoa; ou d) voltar ao passo anterior e exigir que cada participante que nomeou alguém a não ser um dos candidatos emptados mude a nomeação para um dos candidatos empatados, então continuar de volta com essa etapa e re-aplicar as regras.
+- **(f) Processar Proposta**: Uma vez que o Facilitador faz uma Proposta para eleger um candidato, o Facilitador deve mover para o Processo Integrativo de Tomada de Decisão para resolver a Proposta. Contudo, o Facilitador deve iniciar diretamente com a Rodada de Objeções, e, se o candidato proposto estiver presente, o Facilitador deve perguntar por Objeções ao candidato por último. Se quaisquer Objeções forem levantadas, o Facilitador pode escolher processá-las normalmente ou descartar a Proposta imediatamente depois da Rodada de Objeções ou a qualquer ponto durante a etapa de integração. Se o Facilitador optar por descartar a Proposta, o Facilitador deve voltar para a etapa anterior do processo, descartar todas as nomeações ao candidato anterior, e seguir as regras do passo anterior para selecionar outro candidato a propor.
 
-#### 3.3.7 Operational Decisions in Governance Meetings
+#### 3.3.7 Decisões Operacionais em Reuniões de Governança
 
-Governance Meetings are primarily intended to support a Circle’s Governance Process. As long as it does not distract from this intended focus, any participant may nonetheless accept Projects or Next-Actions during a Governance Meeting, or make other operational decisions that are outside the scope of the Circle’s Governance Process. However, the Secretary may not capture any operational outputs or decisions in the formal Governance minutes or records of the Circle. Further, operational outputs and decisions made in a Governance Meeting carry no more or less weight or authority than those made outside of a Governance Meeting.
+Reuniões de Governança são destinadas, principalmente, a apoiar o Processo de Governança de um Círculo. Contanto que isto não distraia do foco pretendido, qualquer participante pode aceitar Projetos e Próximas Ações durante uma Reunião de Governança, ou tomar outras decisões operacionais que estão fora do escopo do Processo de Governança do Círculo. Contudo, o Secretário não poderá capturar quaisquer resultados operacionais ou decisões das atas de Governança do Círculo. Além disso, resultados e decisões operacionais tomadas em uma Reunião de Governança não carregam mais ou menos peso ou autoridade do que aquelas feitas fora de uma Reunião de Governança.
 
-### 3.4 Interpreting the Constitution & Governance
+### 3.4 Interpretando a Constituição e a Governança
 
-As a Partner of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. You may also rely on an explicit interpretation given by the Secretary of any Circle that is affected by the Governance. However, in either case, the following additional terms apply:
+Como um Parceiro da Organização, você pode usar o seu julgamento racional para interpretar a Constituição e qualquer Governança dentro da Organização, incluindo como aplicar tais regras em uma situação específica, e então agir baseado na sua interpretação. Você também pode basear-se em uma interpretação explícita feita por um Secretário de qualquer Círculo que é afetado pela Governança. Contudo, em qualquer caso, os seguintes termos adicionais se aplicam:
 
-#### 3.4.1 Secretary Interpretation Trumps
+#### 3.4.1 Interpretação do Secretário Triunfa
 
-If your interpretation conflicts with an interpretation ruling made by a Secretary, the Secretary’s interpretation trumps your own and applies instead, and you are responsible for aligning with it until any underlying Governance changes.
+Se a sua interpretação colidir com a regra de um Secretário, a interpretação do Seretário triunfa sobre a sua e se aplica então, e você é responsável por alinhar-se com a mesma até que a Governança subjacente mude.
 
-#### 3.4.2 Super-Circle Interpretation Trumps
+#### 3.4.2 Interpretação do Supercírculo Triunfa
 
-A Circle’s Secretary may overrule an interpretation given by a Secretary of any Sub-Circle. If two Secretaries give conflicting rulings and one is from the Secretary of a Circle that ultimately contains the other Circle, then you are responsible for aligning with the interpretation given by the broader Circle’s Secretary.
+Um Secretário de um Círculo pode revogar uma interpretação feita por um Secretário de qualquer Subcírculo. Se dois Secretários proferirem decisões diferentes e uma delas é de um Secretário de um Círculo que por fim contém o outro Círculo, então você é responsável por alinhar-se com a interpretação dada pelo Secretário do Círculo mais amplo.
 
-#### 3.4.3 Interpretations Become Standards
+#### 3.4.3 Interpretações se tornam normas
 
-After ruling on an interpretation, a Secretary may choose to publish that interpretation and the logic behind it in the Governance records of the Circle. If published, the Secretary of that Circle and the Secretaries of any contained Circles are responsible for attempting to align any future rulings with the previously published logic and interpretations.
+Depois de pronunciar uma interpretação, o Secretário pode escolher publicar aquela interpretação e a lógica por trás dela nos registros de Governança do Círculo. Em caso de publicação, o Secretário daquele Círculo e os Secretários de quaisquer Círculos contidos são responsáveis por tentar alinhar quaisquer decisões futuras com a lógica e as interpretações previamente publicadas.
 
-A Secretary may only contradict previously published logic or interpretations once a compelling new argument or circumstance supports a reversal. Once contradicted however, the new logic and interpretations become the acting standard that all future rulings must align with.
+Um Secretário pode apenas contradizer lógicas ou interpretações previamente publicadas, uma vez que um novo argumento convincente ou circustância comporta uma reversão. Uma vez que esta contradição é feita, no entanto, a nova lógica e interpretação se tornam o padrão atuante com as quais todas as decisões futuras devem se alinhar.
 
-#### 3.4.4 Striking Invalid Governance
+#### 3.4.4 Combatendo Governança Inválida
 
-Any Circle Member of a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Core Circle Members of the Circle that held the offending Governance.
+Qualquer Membro do Círculo pode pedir ao seu Secretário que decida sobre a validade de qualquer Governança do Círculo ou qualquer Papel ou Subcírculo em última instância contido pelo Círculo. Mediante este pedido, se o Secretário concluir que a Governança colide com as regras desta Constituição, o Secretário deve então remover a Governança infratora do atuante registro de Governança. Depois de fazer isto, o Secretário deve prontamente comunicar a todos os Membros Principais do Círculo que detinha a Governança infratora o que foi combatido e o porquê.
 
-### 3.5 Process Breakdown
+### 3.5 Colapso de Processo
 
-A **_“Process Breakdown”_** occurs when a Circle shows a pattern of behavior that conflicts with the rules of this Constitution.
+Um **_“Colapso de Processo”_** ocorre quando um Círculo apresenta um padrão de comportamento que colide com as regras desta Constituição.
 
-#### 3.5.1 Breakdown from Failed Governance
+#### 3.5.1 Colapso oriundo de Governança Falha
 
-The Facilitator of a Circle may declare a Process Breakdown in the Circle if the Core Circle Members fail to successfully process a Proposal in a Governance Meeting, even after a reasonably long time is spent trying to do so. If the Proposer specially requested that Governance Meeting specifically for processing that Proposal, then the Proposer may also declare a Process Breakdown in this case.
+O Facilitador de um Círculo pode declarar um Colapso de Processo no Círculo se os Membros Principais do Círculo falharem em processar uma Proposta com êxito em uma Reunião de Governança, mesmo que um tempo razoável seja gasto tentando fazê-lo. Se o Proponente convocou especificamente a Reunião de Governança para processar essa Proposta, então o Proponente pode, neste caso, também declarar um Colapso de Processo.
 
-#### 3.5.2 Breakdown from Unconstitutional Behavior
+#### 3.5.2 Colapso oriundo de Comportamento Inconstitucional
 
-The Facilitator of a Circle may declare a Process Breakdown within one of its Sub-Circles upon discovering a pattern of behavior or outputs within the Sub-Circle that conflict with the rules of this Constitution. However, if that Facilitator is also the Sub-Circle’s Lead Link or Facilitator, then the Super-Circle’s Secretary or Rep Link may also make this declaration.
+O Facilitador de um Círculo pode declarar um Colapso de Processo dentro de um dos seus Subcírculos mediante descoberta de um padrão de comportamento ou resultados dentro do Subcírculo que colidam com as regras desta Constituição. Contudo, se o Facilitador é também o Elo Principal ou Facilitador do Subcírculo, então o Secretário ou o Elo Representativo do Supercírculo podem também fazer esta declaração.
 
-#### 3.5.3 Process Restoration
+#### 3.5.3 Restauração de Processo
 
-Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
+Toda vez que uma parte autorizada declara um Colapso de Processo dentro de um Círculo, ocorre o seguinte:
 
-- **(a)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
-- **(b)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle, or to appoint someone else to do so; and
-- **(c)** the Facilitator of the Circle gains the authority to judge the accuracy of any arguments presented to validate Tensions or Objections within the Circle’s Governance Process.
+- **(a)** o Facilitador do Supercírculo ganha um Projeto para restaurar o devido processo dentro do Círculo; e
+- **(b)** o Facilitador do Supercírculo ganha a autoridade para assumir o Papel de Facilitador ou Secretário do Círculo, ou nomear alguém para fazê-lo; e
+- **(c)** o Facilitador do Círculo ganha a autoridade para julgar a precisão de quaisquer argumentos apresentados para validar Tensões ou Objeções dentro do Processo de Governança do Círculo.
 
-These authorities are temporary and cease as soon as the Facilitator of the Super-Circle concludes that due process has been restored within the Circle.
+Estas autoridades são temporárias e cessam assim que o Facilitador do Supercírculo concluir que o devido processo foi restaurado dentro do Círculo.
 
-#### 3.5.4 Escalation of Process Breakdown
+#### 3.5.4 Agravamento do Colapso de Processo
 
-A Process Breakdown of one Circle may not be considered a Process Breakdown of its Super-Circle, as long as the Super-Circle’s Facilitator is working to resolve the Process Breakdown promptly and diligently.
+Um Colapso de Processo de um Círculo pode não ser considerado um Colapso de Processo do seu Supercírculo, desde que o Facilitador do Supercírculo esteja trabalhando para resolver o Colapso de Processo rapidamente e diligentemente.
 
-However, if the Process Breakdown is not resolved within a reasonable timeframe, then the Facilitator of any Super-Circle that ultimately contains the offending Circle may declare a Process Breakdown within the offending Circle’s Super-Circle as well.
+Contudo, se um Colapso de Processo não for resolvido dentro de um prazo razoável, então o Facilitador do Supercírculo que em última instância contém o Círculo infrator pode, da mesma forma, declarar um Colapso de Processo dentro do Supercírculo do Círculo infrator.
 
 ## Article IV: Operational Process
 
