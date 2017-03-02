@@ -1,9 +1,9 @@
-####Discussions are available here for participants to discuss changes, issues, or other tensions related to the Holacracy Constitution. 
+####As discussões estão disponíveis aqui para que os participantes discutam mudanças, questões ou outras tensões relacionadas com a Constituição Holacracy.
 
-Navigate <a href="https://github.com/holacracyone/Holacracy-Constitution/issues[REPLACE WITH URL FOR CORRECT REPO]" target="_blank">Here[REPLACE WITH URL FOR CORRECT REPO]</a> and click on the green "New Issue" button. 
+Navegue <a href="https://github.com/holacracyone/Holacracy-Constitution-4.1-PORTUGUESE/issues" target="_blank">aqui</a> e clique no botão verde "New Issue".
 
-Title your discussion and describe your points and click on "Submit new issue". 
+Dê um título a sua discussão e descreva seus pontos e clique em "Enviar novo problema".
 
-Depending on your settings you'll get notifications about activity on your submission. 
+Dependendo das suas definições, receberá notificações sobre a atividade no seu envio.
 
-Thanks for participating. 
+Obrigado por participar.
