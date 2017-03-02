@@ -363,7 +363,7 @@ O Facilitador deve usar o seguinte processo para Reuniões de Governança:
 
 - **(a) Rodada de Check-in:** O Facilitador permite que cada participante, um de cada vez, compartilhe o seu estado atual ou pensamentos, ou ofereça algum outro tipo de comentário de abertura para a reunião. Respostas não são permitidas.
 - **(b) Preocupações Administrativas:** O Facilitador concede espaço para discutir e resolver quaisquer assuntos administrativos ou logísticos que o Facilitador considerar digno de atenção.
-- **(c) Construção da Pauta & Processamento:** O Facilitador constrói uma agenda de Tensões a serem processadas, e então processa cada item da pauta em ordem.
+- **(c) Construção da Pauta & Processamento:** O Facilitador constrói uma pauta de Tensões a serem processadas, e então processa cada item da pauta em ordem.
 - **(d) Rodada de Encerramento:** O Facilitador permite que cada participante, um de cada vez, compartilhe uma reflexão de encerramento ou outro pensamento desencadeado pela reunião. Respostas não são permitidas.
 
 Uma Política do Círculo poderá adicionar etapas a esse processo, mas não poderá colidir com quaisquer passos ou outras regras definidas neste Artigo da Constituição.
