@@ -1,6 +1,5 @@
 #**Constituição Holacracy**
 
-
 ###PREÂMBULO
 
 Esta **_“Constituição”_** define regras e processos para a governança e as operações de uma organização. Os **_“Ratificantes”_** adotam estas regras como a estrutura formal de autoridade para a **_“Organização”_** especificadas aquando da aprovação da Constituição, que pode ser uma entidade completa ou parte de uma que os Ratificantes têm autoridade para governar e executar. Os Ratificantes e quaisquer outras pessoas que concordem em participar da governança e das operações da Organização (os seus **_“Parceiros”_**) podem invocar as autoridades concedidas por esta Constituição, e também concordam em se comprometer com os seus deveres e restrições.
@@ -453,162 +452,162 @@ Um Colapso de Processo de um Círculo pode não ser considerado um Colapso de Pr
 
 Contudo, se um Colapso de Processo não for resolvido dentro de um prazo razoável, então o Facilitador do Supercírculo que em última instância contém o Círculo infrator pode, da mesma forma, declarar um Colapso de Processo dentro do Supercírculo do Círculo infrator.
 
-## Article IV: Operational Process
+## Artigo IV: Processo Operacional
 
-### 4.1 Duties of Circle Members
+### 4.1 Deveres dos Membros dos Círculos
 
-When filling a Role in a Circle, you have the following duties to your fellow Circle Members when they’re acting on behalf of other Roles in the Circle.
+Ao desempenhar um Papel em um Círculo, você tem os seguintes deveres para com os seus colegas Membros do Círculo quando eles estiverem agindo em nome dos outros Papéis no Círculo.
 
 #### 4.1.1 Duty of Transparency
 
-You have a duty to provide transparency when requested by your fellow Circle Members, in any of the following areas:
+Você tem o dever to prover transparência quando solicitado pelos seus colegas Membros do Círculo em qualquer uma das seguintes áreas:
 
-- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Roles in the Circle.
-- **(b) Relative Priority:** You must share your judgment of the relative priority of any Projects or Next-Actions tracked for your Roles in the Circle, vs. any other potential activities competing for your attention or resources.
-- **(c) Projections:** You must provide a projection of the date you expect to complete any Project or Next-Action tracked for any of your Roles in the Circle. A rough estimate is sufficient, considering your current context and priorities, but without detailed analysis or planning. This projection is not a binding commitment in any way, and unless Governance says otherwise, you have no duty to track the projection, manage your work to achieve it, or follow-up with the recipient if something changes.
-- **(d) Checklist Items & Metrics:** You must share whether you have completed any regular, recurring actions that you routinely perform in service your Roles in the Circle. You must also track and report on any metrics assigned to your Roles by the Circle’s Lead Link, or by any other Role or process granted the authority to define the Circle’s metrics.
+- **(a) Projetos & Próximas Ações:** Você deve compartilhar quaisquer Projetos e Próximas Ações que você está rastreando para os seus Papéis no Círculo vs quaisquer outras atividades potenciais competindo pela sua atenção e recursos.
+- **(b) Prioridade Relativa:** Você deve compartilhar o seu julgamento da prioridade relativa de quaisquer Projetos & Próximas Ações rastreadas para os seus Papéis no Círculo vs quasiquer outras atividades potenciais competindo pela sua atenção e recursos.
+- **(c) Projeções:** Você deve fornecer uma projeção da data que você espera completar quaisquer Projetos ou Próximas Ações rastreadas para qualquer um dos seus Papéis no Círculo. Uma estimativa aproximada é o suficiente, considerando o seu contexto e as prioridades, mas sem análise detalhada ou planejamento. Esta projeção é não é um compromisso obrigatório de modo algum, e a não ser que a Governança diga de outra forma, você não tem o dever de monitorar esta projeção, gerenciar o seu trabalho para alcançá-la, ou seguí-la se algo mudar.
+- **(d) Itens de Checklist & Métricas:** Você deve compartilhar se você completou ou não ações regulares e recorrentes que você executa de forma rotineira a serviço dos seus Papéis no Círculo. Você deve também rastrear e reportar quaisquer métricas atribuídas aos seus Papéis pelo Elo Principal do Círculo, ou por qualquer outro Papel ou processo que foi concedida a autoridade para definir as métricas do Círculo.
 
-#### 4.1.2 Duty of Processing
+#### 4.1.2 Dever do Processamento
 
-You have a duty to promptly process messages and requests from your fellow Circle Members, as follows:
+Você tem o dever de prontamente processar mensagens e solicitações dos seus colegas Membros do Círculo, do seguinte modo:
 
-- **(a) Requests for Processing:** Other Circle Members may ask you to process any Accountability or Project on a Role you fill in the Circle. If you have no Next-Actions tracked for it, you must identify and capture a Next-Action if there are any reasonable ones you could take. If there are not, you must instead share what you’re waiting on. That must be either a Next-Action or Project tracked by another Role, or a specific event or condition that must happen before you can take further Next-Actions.
-- **(b) Requests for Projects & Next-Actions:** Other Circle Members may ask you to take on a specific Next-Action or Project in one of your Roles in the Circle. If you deem it a reasonable Next-Action or Project to take on, you must accept it and track it. If not, then you must either explain your reasoning, or capture and communicate a different Next-Action or Project that you believe will meet the requester’s objective.
-- **(c) Requests to Impact Domain:** Other Circle Members may ask to impact a Domain controlled by one of your Roles in the Circle. If you see no Objections to the request, you must allow it. If you do, you must explain any Objections to the requester.
+- **(a) Solicitações de Processamento:** Outros Membros do Círculo podem pedir para você processar qualquer Responsabilidade ou Projeto de um Papel que você desempenha no Círculo. Se você não tem Próximas Ações rastreadas para isto, você deve identificar e capturar uma Próxima Ação não existirem quaisquer outras razoáveis que você possa assumir. Se não existirem, então você deve então compartilhar o que você está aguardando. Isto deve ser ou uma Próxima Ação ou Projeto rastreado para outro Papel, ou um evento ou condição específica que deve acontecer antes que você possa tomar novas Próximas Ações.
+- **(b) Solicitações para Projetos e Próximas Ações:** Outros Membros do Círculo podem pedir que você tome uma Próxima Ação ou Projeto específico em dos seus Papéis do Círculo. Se você considerar isto uma Próxima Ação ou Projeto razoável para assumir, então você deve aceitá-lo e rastreá-lo. Senão, você deve ou explicar o seu raciocínio, ou capturar e comunicar uma Próxima Ação ou Projeto diferente que você acredita que irá atender o objetivo do solicitante.
+- **(c) Solicitações para Impactar Domínios:** Outros Membros do Círculo podem pedir para impactar um Domínios controlado por um de seus Papéis no Círculo. Se você não vê objeções para o pedido, você deve permiti-lo. Caso contrário, você deve explicar quaisquer Objeções para o solicitante.
 
-#### 4.1.3 Duty of Prioritization
+#### 4.1.3 Dever da Priorização
 
-You have a duty to prioritize where to focus your attention and resources in alignment with the following constraints:
+Você tem o dever de priorizar onde focar a sua atenção e recursos em alinhamento com as seguintes restrições:
 
-- **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from fellow Circle Members over executing your own Next-Actions. However, you may temporarily defer processing in order to batch process messages in a single time block or at a more convenient time, as long as your processing is still reasonably prompt. Processing means engaging in the duties described in this section, including considering the message, defining and capturing Next-Actions or Projects when appropriate, and, upon request, responding with how the message was processed. Processing does not mean executing upon captured Next-Actions and Projects, which is not covered by this prioritization rule.
-- **(b) Requested Meetings Over Execution:** On request of a fellow Circle Member, you must prioritize attending any Circle meeting required by this Constitution over executing your own Next-Actions. However, you may still decline the request if you already have plans scheduled over the meeting time, or if the request was for an ongoing series or pattern of meetings rather than a specific meeting instance.
-- **(c) Circle Needs Over Individual Goals:** You must integrate and align with any official prioritizations or Strategies of the Circle, such as those specified by the Circle’s Lead Link, when assessing how to deploy your time, attention, and other resources to your work within the Circle.
+- **(a) Processamento mais que Execução:** Você deve geralmente priorizar o processamento de mensagens de entrada dos seus colegas Membros do Círculo em detrimento de executar as suas próprias Próximas Ações. Contudo, você pode temporariamente adiar o processamento a fim de processar mensagens em lote em um único bloco de tempo ou em um momento mais conveniente, desde que o seu processamento seja ainda assim razoavelmente rápido. Processar significa engajar-se em deveres descritos nesta seção, incluindo considerar a mensagem, definir e capturar Próximas Ações ou Projetos quando apropriado, e, mediante solicitação, responder como a mensagem foi processada. Processamento não significa execução em detrimento das Próximas Ações e Projetos capturados, que não é coberto por esta regra de priorização.
+- **(b) Reuniões Solicitadas mais que Execução:** A pedido de um colega Membro do Círculo, você deve priorizar atender quaisquer reuniões do Círculo exigidas por esta Constituição mais do que executar as suas próprias Próximas Ações. Contudo, você ainda pode recusar o pedido se você já tem planos agendados para o horário da reunião, ou se o pedido foi para uma série contínua ou padrão de reuniões em vez de uma instância de reunião específica.
+- **(c) Necessidades do Círculo mais que Metas Individuais:** Você deve se integrar e se alinhar com quaisquer priorizações ou Estratégias oficiais do Círculo, como aquelas especificadas pelo Elo Principal do Círculo ao avaliar como dispor o seu tempo, atenção e outros recursos do seu trabalho para o Círculo.
 
-#### 4.1.4 Links May Convey Duties
+#### 4.1.4 Elos podem transmitir Deveres
 
-As a Lead Link, Rep Link, or Cross Link into a Circle, you may invite someone else to engage the Circle Members of the Circle in the duties specified in this section. You may only extend this invitation to aid in the processing of a specific Tension affecting the entity you are linked from, and only if you also sense the Tension and stay engaged in its processing. The person you invite temporarily becomes a full Circle Member, as if he or she also fills your link role, but only while directly processing that specific Tension. You may withdraw this invitation anytime.
+Como um Elo Principal, Elo Representativo ou Elo Transversal no Círculo, você pode convidar alguém mais para engajar os Membros do Círculo nos deveres especificados nesta seção. Você pode apenas estender este convite para auxiliar no processamento de uma Tensão específica afetando a entidade que você é ligado, e apenas se você também sentir a Tensão e permanecer engajado no seu processamento. A pessoa que você convidar se torna temporariamente um Membro do Círculo, como se ele ou ela também desempenhasse um Papel, mas apenas durante o processamento daquela Tensão específica. Você pode retirar este convite a qualquer momento.
 
-#### 4.1.5 Implicit Expectations Hold No Weight
+#### 4.1.5 Expectativas implícitas não detém peso algum
 
-All of your responsibilities and constraints as a Partner of the Organization are defined in this Constitution, and in the Governance that results from it. No former or implicit expectations or constraints carry any weight or authority, unless a Circle’s Governance explicitly empowers them, or they come from a basic obligation or contractual agreement you personally have to or with the Organization.
+Todas as suas responsabilidades e restrições como um Parceiro da Organização são definidas nesta Constituição e na Governança que resulta dela. Expectativas e restrições anteriores ou implícitas não carregam nenhum peso ou autoridade, a menos que a Governança do Círculo explicitamente as autorize, ou se elas vêm de uma obrigação básica ou acordo contratual que você pessoalmente tem com a Organização.
 
-### 4.2 Tactical Meetings
+### 4.2 Reuniões Táticas
 
-The Secretary of a Circle is responsible for scheduling regular **_“Tactical Meetings”_** to facilitate the Circle’s operations. The Facilitator is responsible for presiding over Tactical Meetings in alignment with the following rules and any relevant Policies of the Circle.
+O Secretário do Círculo é responsável por regularmente agendar **_"Reuniões Táticas"_** para facilitar as operações do Círculo. O Facilitador é responsável por presidir as Reuniões Táticas em alinhamento com as seguintes regras e quaisquer Políticas relevantes do Círculo.
 
-#### 4.2.1 Focus & Intent
+#### 4.2.1 Foco & Objetivo
 
-Tactical Meetings are for:
+Reuniões Táticas são para:
 
-- **(a)** sharing the completion status of recurring actions on checklists owned by the Circle’s Roles;
-- **(b)** sharing regular metrics assigned to the Circle’s Roles to report;
-- **(c)** sharing progress updates about Projects and other work owned by the Circle’s Roles; and
-- **(d)** triaging Tensions limiting the Circle’s Roles into Next-Actions, Projects, or other outputs that help reduce those Tensions.
+- **(a)** compartilhar o estado de conclusão de ações recorrentes em checklists detidos pelos Papéis do Círculo;
+- **(b)** compartilhar métricas regulares para que os Papéis do Círculo reportem;
+- **(c)** compartilhar as atualizações de progresso de Projetos e outros trabalhos em posse dos Papéis do Círculo; e
+- **(d)** triar Tensões limitando os Papéis dos Círculos em Próximas Ações, Projetos ou outros resultados que ajudem a reduzir estas Tensões.
 
-#### 4.2.2 Attendance
+#### 4.2.2 Comparecimento
 
-All Core Circle Members and anyone else normally invited to participate in the Circle’s Governance Meetings are also invited to participate in its Tactical Meetings, unless a Policy says otherwise. There is no advance notice or quorum required for a Tactical Meeting, unless a Policy says otherwise.
+Todos os Membros Principais do Círculo e qualquer pessoa normalmente convidada a participar das Reuniões de Governança do Círculo são também convidados a participar das suas Reuniões Táticas, a menos que uma Política diga o contrário. Não há aviso prévio ou quórum para uma Reunião Tática, a menos que uma Política diga o contrário.
 
-#### 4.2.3 Facilitation & Process
+#### 4.2.3 Facilitação & Processo
 
-The Facilitator must normally use the following process for Tactical Meetings:
+O Facilitador deve normalmente usar o seguinte processo para Reuniões Táticas:
 
-- **(a) Check-in Round:** The Facilitator allows each participant in turn to share their current state or thoughts, or offer another type of opening comment for the meeting. Responses are not allowed.
-- **(b) Checklist Review:** The Facilitator asks each participant to verify the completion of any recurring actions on that participant’s checklist.
-- **(c) Metrics Review:** The Facilitator asks each participant to share data for any metrics assigned to that participant by the Lead Link or whatever other Role or process defines the Circle’s metrics.
-- **(d) Progress Updates:** The Facilitator asks each participant to highlight progress towards achieving any Project or expressing any Accountability of any of the participant’s Roles in the Circle. Participants may only share progress made since the last report given, and not the general status of a Project or Accountability. Each participant may decide which Projects or Accountabilities are worth reporting on, however if another Circle Member explicitly requested updates on a specific Project, that one must be included until it’s either completed or dropped. For progress updates about a Project or Accountability of a Sub-Circle, the Facilitator must allow both the Lead Link and Rep Link of the Sub-Circle the opportunity to share updates.
-- **(e) Triage Issues:** The Facilitator is responsible for building an agenda of Tensions to process in the Tactical Meeting by soliciting agenda items from all participants, using the same rules as those for a Governance Meeting, defined in Section 3.3.4. However, in Tactical Meetings, the Facilitator processes agenda items by simply allowing the agenda item owner to engage others in their Roles and duties as desired, until a path for resolving the Tension is identified. If any Next-Actions or Projects are accepted during this discussion, the Secretary is responsible for capturing them and distributing these outputs to all participants. The Facilitator must attempt to allow time for processing every agenda item within the meeting, and in order to do so may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
-- **(f) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
+- **(a) Rodada de Check-in:** Durante esta etapa, o Facilitador permite que cada participante, um de cada vez, compartilhe o seu estado atual ou pensamentos, ou ofereça algum outro tipo de comentário de abertura para a reunião. Respostas não são permitidas.
+- **(b) Revisão de Checklists:** Durante esta etapa, o Facilitador pede a cada participante que verifique a conclusão de quaisquer ações recorrentes no checklist daquele participante.
+- **(c) Revisão de Métricas:** Durante esta etapa, o Facilitador pede a cada participante que compartilhe os dados de quaisquer métricas atribuídas àquele participante pelo Elo Principal ou por qualquer Papel ou processo que define as métricas do Círculo.
+- **(d) Atualizações de Progresso:** Durante esta etapa, o Facilitador pede a cada participante que destaque o progresso para alcançar qualquer Projeto ou expressar qualquer Responsabilidade de qualquer Papel do participante no Círculo. Participantes podem apenas compartilhar o progresso feito desde o último relato dado, e não a situação geral do Projeto ou Responsabilidade. Cada participante pode decidir quais Projetos ou Responsabilidades são dignos de relato, contudo, se outro Membro do Círculo explicitamente solicitar atualizações de um Projeto específico, este deve ser incluído no relato até que seja concluído ou abandonado. Para atualizações de progresso de Projetos ou Responsabilidades de um Subcírculo, o Facilitador deve permitir que o Elo Principal e o Elo Representativo do Subcírculo tenham a oportunidade de compartilhar atualizações.
+- **(e) Triagem de Problemas:** Durante esta etapa, o Facilitador é responsável por construir uma pauta de Tensões para processar na Reunião Tática solicitando ítens de pauta de todos os participantes, usando as mesmas regras da Reunião de Governança, definidas no item 3.3.4. Contudo, em Reuniões Táticas, o Facilitador processa ítens da pauta simplesmente permitindo que o dono do item da pauta engaje os outros nos seus Papéis e deveres conforme desejado e até que um caminho para resolver a Tensão seja identificado. Se quaisquer Próximas Ações ou Projetos forem aceitos durante esta discussão, o Secretário é responsável por capturá-los e distribuir esses resultados para todos os participantes. O Facilitador deve tentar dar tempo para processar cada item da pauta dentro da reunião, e, a fim de fazê-lo, pode cortar o processamento de qualquer item que esteja tomando mais tempo do que o devido.
+- **(f) Rodada de Encerramento:** Durante esta etapa, o Facilitador permite que cada participante, um de cada vez, compartilhe uma reflexão de encerramento ou outro pensamento desencadeado pela reunião. Respostas não são permitidas.
 
-A Circle may adopt a Policy to add to or change this required process.
+Um Círculo pode adotar uma Política para acrescentar ou mudar este processo obrigatório.
 
-#### 4.2.4 Surrogate for Absent Members
+#### 4.2.4 Substitutos para Membros Ausentes
 
-If a Defined Role of the Circle is entirely or partially unrepresented at a Tactical Meeting due to someone’s absence, the Circle’s Lead Link may act within that Role to cover the gap. If the Lead Link is also absent, any participant may accept Next-Actions or Projects on behalf of that Role, however these may be treated by the person who normally fills the Role as just requests made under the terms of Section 4.1.2(b).
+Se um Papel Definido do Círculo está completamente ou parcialmente sem representação em uma Reunião Tática devido a ausência de alguém, o Elo Principal do Círculo pode agir dentro daquele Papel para preencher a lacuna. Se o Elo Principal também estiver ausente, qualquer participante pode aceitar Próximas Ações ou Projetos em nome desse papel, contudo, estas podem ser tratadas pela pessoa que normalmente desempenha o Papel como apenas solicitações feitas sob os termos do item 4.1.2(b).
 
-### 4.3 Individual Action
+### 4.3 Medidas Individuais
 
-As a Partner of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking **_“Individual Action”_**, and you are bound by the following rules:
+Como um Parceiro da Organização, em alguns casos você está autorizado a agir fora da autoridade dos seus Papéis, ou até mesmo quebrar as regras desta Constituição. Agindo sob esta autoridade estendida, você está tomando **_“Medidas Individuais”_**, e você está limitado pelas seguintes regras:
 
-#### 4.3.1 Allowed Situations
+#### 4.3.1 Situações Permitidas
 
-You may only take Individual Action when all of the following are true:
+Você só pode tomar uma Medida Individual quando todas as seguintes forem verdadeiras:
 
-- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization, or of the overall Organization itself.
-- **(b)** You reasonably believe your action would resolve or prevent more Tension for the Organization than it would likely create.
-- **(c)** Your action would not cause, commit to, or allow spending or otherwise disposing of the Organization’s resources or other assets, beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Domains or Policies, you reasonably believe that you can’t delay the action long enough to request any permissions normally required, or to propose a Governance change to allow your action, without losing much of its potential value.
+- **(a)** Você está agindo de boa fé para servir o Propósito ou expressar as Responsabilidades de algum Papel dentro da Organização ou da Organização como um todo.
+- **(b)** Você realmente acredita que a sua ação resolveria ou previniria mais Tensões para a Organização do que ela provavelmente iria criar.
+- **(c)** A sua ação não causaria, comprometeria, ou permitiria gastos ou de outra forma a alienação de recursos ou bens da Organização, além dos limites que você já está autorizado a gastar.
+- **(d)** Se a sua ação violasse quaisquer Domínios ou Políticas, você realmente acredita que você não pode retardar a ação por tempo suficiente para solicitar quaisquer permissões normalmente exigidas, ou propor uma mudança na Governança para permitir a sua ação, sem perder muito do seu valor potencial.
 
-#### 4.3.2 Communication & Restoration
+#### 4.3.2 Comunicação & Restauração
 
-Upon taking Individual Action, you have a duty to explain your action and the intent behind it to any Partner who fills a Role that may be significantly impacted. Upon the request of any of those Partners, you also have a duty to take any reasonable additional actions to assist in resolving any Tensions created by your Individual Action.
+Ao tomar uma Medida Individual, você tem o dever de explicar a sua ação e a intenção por trás dela a qualquer Parceiro que desempenhe um Papel que possa ter sido afetado de forma significativa. A pedido de qualquer um destes Parceiros, você também tem o dever de tomar quaisquer medidas adicionais adequadas para ajudar a resolver quaisquer Tensões criadas pela sua Medida Individual.
 
-If your Individual Action was effectively acting within another Role, or violated a Domain or a Policy, then you must cease from continuing to take similar Individual Action upon request of whoever normally controls that Role, Domain, or Policy, or upon request of the Lead Link of the Circle holding the affected entity.
+Se a sua Medida Individual estava efetivamente agindo dentro de outro Papel, ou violou um Domínio ou uma Política, então você deve deixar de continuar a tomar Medidas Individuais similares mediante solicitação de qualquer pessoal que normalmente controle aquele Papel, Domínio ou Política, ou mediante solicitação do Elo Principal do Círculo que detém a entidade afetada.
 
-#### 4.3.3 Clarifying Governance
+#### 4.3.3 Esclarecendo a Governança
 
-If your Individual Action is an instance of a recurring activity or ongoing function needed by a Circle, and that activity or function is not already explicitly called for by the Circle’s Governance, then you are responsible for taking follow-up steps to remove that gap. That follow-up could include proposing Governance to cover the need, or taking steps to remove the need for this activity or function to happen in the first place.
+Se a sua Medida Individual é uma instância de uma atividade recorrente ou função recorrente necessária por um Círculo, e esta atividade ou função não está ainda explicitamente preconizada pela Governança do Círculo, então você é responsável por tomar medidas de continuação para remover esta lacuna. Este acompanhamento pode incluir a proposta de Governança para cobrir a necessidade, ou a tomada de medidas para eliminar que a necessidade desta atividade ou função acontença em primeiro lugar.
 
-#### 4.3.4 Priority of Corollary Requirements
+#### 4.3.4 Prioridade das Exigências Corolárias
 
-After taking Individual Action, you have a duty to prioritize doing the corollary requirements defined in this section higher than doing any of your regular work. However, the Lead Link of whatever Circle fully contains all Roles that were significantly impacted by your action may still change this default priority.
+Depois de tomar Medidas Individuais, você tem o dever de priorizar a execução das exigências corolárias definidas nesta seção sobre a execução do seu trabalho regular. Contudo, o Elo Principal de qualquer Círculo que contenha totalmente todos Papéis que foram atingidos de forma significativa pela sua ação pode ainda alterar esta prioridade padrão.
 
-## Article V: Adoption Matters
+## Artigo V: Questões da Adoção
 
-### 5.1 Ratifiers Cede Authority
+### 5.1 Ratificantes Cedem a Autoridade
 
-By adopting this Constitution, the Ratifiers cede their authority to govern and run the Organization or direct its Partners, and may no longer do so except through authority granted to them under the Constitution’s rules and processes. However, as an exception to this rule, the Ratifiers may continue to hold and exercise any authority that they do not have the power to delegate, such as anything required by policies outside of their control, or by the Organization’s bylaws.
+Ao adotar esta Constituição, os Ratificantes cedem a autoridade de governar e executar a Organização ou de dirigir os seus Parceiros, e não podem mais fazê-lo, exceto através da autoridade que lhes é concedida no âmbito das regras e processos da Constituição. Contudo, como uma exceção a esta regra, os Ratificantes podem continuar a deter e exercer qualquer autoridade que eles não têm o poder de delegar, tais como qualquer coisa exigida por políticas fora de seu controle, ou pelo estatuto social da Organização.
 
-### 5.2 Anchor Circle
+### 5.2 Círculo Âncora
 
-Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This **_“Anchor Circle”_** becomes the broadest Circle in the Organization, and automatically controls all Domains that the Organization itself controls.
+Mediante a adoção da Constituição, os Ratificantes devem estabelecer um Círculo inicial para expressar o Propósito geral da Organização. Este **_“Círculo Âncora”_** torna-se o Círculo mais amplo da Organização, e automaticamente controla todos os Domínios que a própria Organização controla.
 
-#### 5.2.1 Links to the Anchor Circle
+#### 5.2.1 Elos para o Círculo Âncora
 
-The Ratifiers may appoint an initial Lead Link of the Anchor Circle.
+Os Ratificantes podem designar um Elo Principal inicial para o Círculo Âncora. 
 
-Alternatively, the Ratifiers may leave the Anchor Circle without a Lead Link, and create one or more initial Cross Links to the Anchor Circle in lieu of a Lead Link.
+Alternativamente, os Ratificantes podem deixar o Círculo Âncora sem um Elo Principal, e criar um ou mais Elos Transversais iniciais para Círculo Âncora no lugar de um Elo Principal.
 
-#### 5.2.2 Acting Without a Lead Link
+#### 5.2.2 Agindo sem um Elo Principal
 
-If the Anchor Circle has no Lead Link, all decisions that normally require Lead Link authority become valid outputs of the Circle’s Governance Process. Any Role within the Circle may thus exercise Lead Link authority by proposing a decision as a Governance change for the Circle, using the process and rules in Article III.
+Se o Círculo Âncora não possuir um Elo Principal, todas as decisões que normalmente exigem a autoridade do Elo Principal se tornam resultados válidos do Processo de Governança do Círculo. Qualquer Papel dentro do Círculo pode assim exercer a autoridade de Elo Principal propondo uma decisão como uma mudança de Governança para o Círculo, usando o processo e as regras do Artigo III.
 
-Further, in an Anchor Circle with no Lead Link, the normal authority of Roles to autocratically impact Circle Domains (per Section 2.1.2) is revoked. Instead, the Circle’s Roles may only impact its Domains if a Policy explicitly allows the impact, or, alternatively, by proposing the action using the Circle’s Governance Process, exactly as described above for exercising Lead Link authority.
+Além disso, em um Círculo Âncora sem Elo Principal, a autoridade normal dos Papéis para impactar autocraticamente os Domínios do Círculo (pelo item 2.1.2) é revogada. Em vez disso, os Papéis do Círculo podem apenas impactar os Domínios se uma Política explicitamente os permite, ou, alternativamente, propondo uma ação usando o Processo de Governança do Círculo, exatamente como descrito acima para exercer a autoridade de Elo Principal.
 
-#### 5.2.3 Organization’s Purpose
+#### 5.2.3 Propósito da Organização
 
-The Anchor Circle is automatically accountable for discovering and expressing the Purpose of the overall Organization. The Purpose of the Organization is the deepest creative potential it can sustainably express in the world, given all of the constraints acting upon it and everything available to it. That includes its history, current capacities, available resources, Partners, character, culture, business structure, brand, market awareness, and all other relevant resources or factors.
+O Círculo Âncora é automaticamente responsável por descobrir e expressar o Propósito de toda a Organização. O Propósito da Organização é o mais profundo e criativo potencial que ela pode expressar de forma sustentável no mundo, tendo em conta todas as restrições nela aplicadas e tudo a sua disposição. Isto inclui a sua história, capacidades atuais, recursos disponíveis, Parceiros, caráter, cultura, estrutura de negócios, marca, conhecimento de mercado e todos os outros recursos e fatores relevantes.
 
-The Anchor Circle’s Lead Link inherits this Accountability by default, and may capture and update the Purpose to express this Accountability.
+O Elo Principal do Círculo Âncora herda esta Responsabilidade por padrão, e pode capturar e atualizar o Propósito para expressar esta Responsabilidade.
 
-If the Anchor Circle has no Lead Link, this Accountability automatically falls upon each Cross Link to the Anchor Circle instead, and any of them may update the Purpose by proposing the update via the Circle’s Governance Process.
+Se o Círculo Âncora não possuir Elo Principal, esta Responsabilidade recai sobre cada Elo Transversal para o Círculo Âncora, e qualquer um deles pode alterar o Propósito propondo uma atualização através do Processo de Governança do Círculo.
 
-#### 5.2.4 Updating the Anchor Circle
+#### 5.2.4 Atualizando o Círculo Âncora
 
-The Lead Link of the Anchor Circle has the authority to name the Circle, clarify its Domains, and add or modify its Accountabilities.
+O Elo Principal do Círculo Âncora tem a autoridade de nomear o Círculo, esclarecer os seus Domínios e adicionar ou modificar as suas Responsabilidades.
 
-The Lead Link of the Anchor Circle may also appoint his or her own replacement as desired, unless otherwise specified by the Ratifiers.
+O Elo Principal do Círculo Âncora pode também apontar a sua substituição conforme desejado, a menos que de outra forma especificado pelos Ratificantes.
 
-#### 5.2.5 No Super-Circle
+#### 5.2.5 Sem Supercírculo
 
-The Anchor Circle has no Super-Circle, and does not elect a Rep Link.
+O Círculo Âncora não possui Supercírculo e não elege um Elo Representativo.
 
-### 5.3 Initial Structure
+### 5.3 Estrutura Inicial
 
-The Lead Link of the Anchor Circle may define an initial structure and other Governance for the Organization, outside of the usual Governance Process required by this Constitution. If that initial structure includes any other Circles, the Lead Links of those Circles may do the same within their Circles. This authority may only be used to define an initial structure for a Circle to start from, before the Circle has begun conducting its Governance Process.
+O Elo Principal do Círculo Âncora pode definir uma estrutura inicial e outra Governança para a Organização, fora do Processo de Governança habitual exigido por esta Constituição. Se esta estrutura inicial inclui quaisquer outros Círculos, os Elos Principais destes Círculos podem fazer o mesmo dentro dos seus Círculos. Esta autoridade pode ser apenas usada para definir uma estrutura inicial para o Círculo, antes do Círculo começar a conduzir o seu Processo de Governança.
 
-### 5.4 Legacy Policies and Systems
+### 5.4 Políticas e Sistemas Legados
 
-Any existing policies and systems the Organization has in effect before adopting this Constitution continue in full force after adoption, even if they include constraints or authorities that are not reflected in Governance records. This may include compensation systems, hiring and firing processes, work-related policies, etc.
+Quaisquer políticas e sistemas existentes que a Organização tem em vigor antes da adoção da Constituição continuam em pleno vigor após a adoção, mesmo que eles incluam restrições ou autoridades que não estão refletidas nos registros de Governança. Isso pode incluir sistemas de compensação, processos de contratação e demissão, políticas relacionadas ao trabalho, etc.
 
-However, these legacy policies and systems will lose all weight and authority as soon as Governance is defined that replaces or contradicts them. In addition, they may not be modified or added to in their legacy form. Anyone wishing to do so must first capture or otherwise empower the policy or system using the Governance Process defined in this Constitution.
+Contudo, estas políticas e sistemas de legado perderão todo o peso assim que uma Governança que os substitui ou contradiz for definida. Além disso, eles podem não ser modificados ou adicionados na sua forma legada. Qualquer pessoa que queira fazê-lo deve primeiro capturar ou de outra forma autorizar a política ou sistema utilizando o Processo de Governança definido nesta Constituição.
 
-### 5.5 Constitution Amendments and Repeal
+### 5.5 Emendas e Revogação da Constituição
 
-The Ratifiers or their successors may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Partners of the Organization can access them.
+Os Ratificantes ou os seus sucessores podem emendar esta Constituição ou revogá-la completamente, usando qualquer autoridade e processo convocado para adotá-la. Emendas devem ser por escrito e publicadas onde todos os Parceiros da Organização possam acessá-las.
 
 ---
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Este trabalho é  licensiado sobre <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ---
