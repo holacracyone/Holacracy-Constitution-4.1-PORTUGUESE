@@ -1,6 +1,6 @@
 # Introdução: Constituição Holacracy®
 
-### O que é a Constituiço Holacracy?
+### O que é a Constituição Holacracy?
 
 A Constituição Holacracy documenta as principais regras, estrutura e processos do "sistema operacional" da Holacracy para governar e administrar uma organização. Ele fornece a base para uma organização que deseja usar a Holacracy, ancorando a mudança de poder requerida em "regras do jogo" concretas e documentadas, sobre as quais todos os envolvidos podem confiar.
 
