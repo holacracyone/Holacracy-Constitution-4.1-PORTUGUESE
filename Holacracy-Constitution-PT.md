@@ -1,6 +1,6 @@
-#**Constituição Holacracy**
+# **Constituição Holacracy**
 
-###PREÂMBULO
+### PREÂMBULO
 
 Esta **_“Constituição”_** define regras e processos para a governança e as operações de uma organização. Os **_“Ratificantes”_** adotam estas regras como a estrutura formal de autoridade para a **_“Organização”_** especificadas aquando da aprovação da Constituição, que pode ser uma entidade completa ou parte de uma que os Ratificantes têm autoridade para governar e executar. Os Ratificantes e quaisquer outras pessoas que concordem em participar da governança e das operações da Organização (os seus **_“Parceiros”_**) podem invocar as autoridades concedidas por esta Constituição, e também concordam em se comprometer com os seus deveres e restrições.
 
