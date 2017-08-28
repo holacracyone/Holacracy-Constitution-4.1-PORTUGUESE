@@ -98,7 +98,7 @@ Além disso, o Elo Principal não pode definir Políticas que limitem os Papéis
 
 O Elo Principal de um Círculo pode definir prioridades relacionadas ao Círculo. Além disso, o Elo Principal pode definir uma **_“Estratégia”_** mais genérica para o Círculo, ou múltiplas Estratégias, que são heurísticas que orientam os Papéis do Círculo na auto-identificação das prioridades contínuas.
 
-#### 2.2.3 Amending the Lead Link Role
+#### 2.2.3 Alterando o Papel do Elo Principal
 
 Um Círculo não pode adicionar Responsabilidades ou outras funções que possui para o Papel de Elo Principal, modificar o Propósito, ou remover este Papel inteiramente. 
 
@@ -139,11 +139,11 @@ O Elo Principal de um Círculo pode especialmente nomear pessoas adicionais para
 
 O Elo Principal de um Círculo pode atribuir às pessoas para que desempenhem Papéis Definidos em um Círculo, a não ser que esta autoridade tenha sido limitada ou delegada.
 
-#### 2.4.1 Unfilled Roles
+#### 2.4.1 Papéis não Preenchidos
 
 Toda vez que um Papel Definido em um Círculo não é preenchido, considera-se que o Elo Principal esteja desempenhando o Papel.
 
-#### 2.4.2 Assigning Roles to Multiple People
+#### 2.4.2 Atribuindo Papéis Para Várias Pessoas
 
 Um Elo Principal pode atribuir a múltiplas pessoas o mesmo Papel Definido, contanto que isso não diminua a clareza de quem irá promulgar as Responsabilidades e autoridades do Papel em situações comuns.
 
@@ -316,7 +316,7 @@ Contudo, independentemente dos critérios acima, uma Tensão a respeito de adota
 
 - **(e)** Processar ou a adotar a Proposta viola as regras definidas nesta Constituição, ou solicita o Círculo ou os seus membros a agirem fora da autoridade concedida nos termos desta Constituição. Por exemplo, Próximas Ações, Projetos e decisões operacionais específicas não são, tipicamente, resultados válidos de Governança pelos termos do item 3.1, então, qualquer um poderia levantar uma Objeção que a Proposta, ao decretar que estes resultados, viola as regras da Constituição.
 
-#### 3.2.5 Testando Objeçes
+#### 3.2.5 Testando Objeções
 
 O Facilitador pode testar a validade de uma Objeção alegada fazendo perguntas ao Objetor. Para que uma Objeção alegada sobreviva ao teste, o Objetor deve ser capaz de apresentar argumentos razoáveis sobre como ela atende cada um dos critérios exigidos de uma Objeção. O Facilitador deve descartar uma Objeção se ele considerar que o Objetor falhou em cumprir esse limite.
 
@@ -458,7 +458,7 @@ Contudo, se um Colapso de Processo não for resolvido dentro de um prazo razoáv
 
 Ao desempenhar um Papel em um Círculo, você tem os seguintes deveres para com os seus colegas Membros do Círculo quando eles estiverem agindo em nome dos outros Papéis no Círculo.
 
-#### 4.1.1 Duty of Transparency
+#### 4.1.1 Dever de Transparência
 
 Você tem o dever to prover transparência quando solicitado pelos seus colegas Membros do Círculo em qualquer uma das seguintes áreas:
 
