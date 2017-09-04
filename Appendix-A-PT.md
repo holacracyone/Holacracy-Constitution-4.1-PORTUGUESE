@@ -1,4 +1,4 @@
-#**Anexo A**
+# **Anexo A**
 
 ## Definição dos Papéis Principais
 
@@ -20,7 +20,7 @@
 
 _O Elo Principal também detém todos os Domínios e Responsabilidades do Círculo não delegados._
 
-###Elo Representativo
+### Elo Representativo
 
 **Propósito:** _Dentro do Supercírculo, o Elo Representativo detém o Propósito do Subcírculo; Dentro do Subcírculo, o Propósito doo Elo Representativo é: Tensões relevantes a serem processadas no Supercírculo canalizadas para fora e resolvidas._
 
@@ -30,7 +30,7 @@ _O Elo Principal também detém todos os Domínios e Responsabilidades do Círcu
 - Procurar entender Tensões transmitidas pelos Membros do Subcírculo e discernir aquelas apropriadas para processar no Supercírculo
 - Fornecer visibilidade ao Supercírculo com relação à saúde do Subcírculo e reportar métricas ou ítens de checklist atribuídos ao Subcírculo
 
-###Facilitador
+### Facilitador
 
 **Propósito:** Governança do Círculo e práticas operacionais alinhadas com a Constituição.
 
@@ -39,7 +39,7 @@ _O Elo Principal também detém todos os Domínios e Responsabilidades do Círcu
 - Facilitar as reuniões do Círculo requeridas constitucionalmente
 - Auditar as reuniões e registros dos Subcírculos conforme necessário e declarar um Colapso de Processo ao descobrir um padrão de comportamento que está em conflito com as regras da Constituição
 
-###Secretário
+### Secretário
 
 **Propósito:** Gerenciar e estabilizar os registros formais do Círculo e o processo de manutenção desses registros.
 
