@@ -408,7 +408,7 @@ Como um Parceiro da Organização, você pode usar o seu julgamento racional par
 
 #### 3.4.1 Interpretação do Secretário Triunfa
 
-Se a sua interpretação colidir com a regra de um Secretário, a interpretação do Seretário triunfa sobre a sua e se aplica então, e você é responsável por alinhar-se com a mesma até que a Governança subjacente mude.
+Se a sua interpretação colidir com a regra de um Secretário, a interpretação do Secretário triunfa sobre a sua e se aplica então, e você é responsável por alinhar-se com a mesma até que a Governança subjacente mude.
 
 #### 3.4.2 Interpretação do Supercírculo Triunfa
 
