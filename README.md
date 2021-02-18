@@ -6,7 +6,7 @@ A Constituição Holacracy documenta as principais regras, estrutura e processos
 
 ### Como é que a Constituição da Holacracy pode ser usada?
 
-A Constituição pode ser referenciada por qualquer declaração ou acordo que capture a decisão de organizar usando o sistema Holacracy. Isso pode ser um conjunto formal de estatutos legais ou acordo operacional semelhante, ou uma resolução de diretoria simples ou uma declaração de diretiva de CEO semelhante a <a href = "https://github.com/holacracyone/Holacracy-Constitution/blob/master/Adoption%20Declaration%20Sample.pdf "target="_ blank">este anexo aqui</a>. Verifique o Artigo V para assuntos relacionados à adoção. Observe também que esta página explicativa e a declaração de anexo são incluídas para fins informativos, mas não fazem parte do documento constitucional básico.
+A Constituição pode ser referenciada por qualquer declaração ou acordo que capture a decisão de organizar usando o sistema Holacracy. Isso pode ser um conjunto formal de estatutos legais ou acordo operacional semelhante, ou uma resolução de diretoria simples ou uma declaração de diretiva de CEO semelhante a [este anexo aqui](https://github.com/holacracyone/Holacracy-Constitution-4.1-PORTUGUESE/blob/master/Adoption%20Declaration%20Sample.pdf). Verifique o Artigo V para assuntos relacionados à adoção. Observe também que esta página explicativa e a declaração de anexo são incluídas para fins informativos, mas não fazem parte do documento constitucional básico.
 
 ### O que a Constituição da Holacracia não é
 
@@ -33,23 +33,23 @@ Colaboradores da versão atual são Brian Robertson, Rashid Gilanpour, Alexia Bo
 
 # Índice
 
-#### [Artigo I: Energizando Papéis] (https://github.com/holacracyone/Holacracy-Constitution-4.1-PORTUGUESE/blob/master/Holacracy-Constitution-PT.md#artigo-i-energizando-papéis)
+#### [Artigo I: Energizando Papéis](https://github.com/holacracyone/Holacracy-Constitution-4.1-PORTUGUESE/blob/master/Holacracy-Constitution-PT.md#artigo-i-energizando-papéis)
 
 Um papel é o bloco básico da Holacracy para a estrutura organizacional. Este artigo abrange as autoridades básicas e deveres transmitidos a um parceiro desempenhando um papel.
 
-#### [Artigo II: Estrutura em Círculos] (https://github.com/holacracyone/Holacracy-Constitution-4.1-PORTUGUESE/blob/master/Holacracy-Constitution-PT.md#artigo-ii-estrutura-em-círculos)
+#### [Artigo II: Estrutura em Círculos](https://github.com/holacracyone/Holacracy-Constitution-4.1-PORTUGUESE/blob/master/Holacracy-Constitution-PT.md#artigo-ii-estrutura-em-círculos)
 
 Um círculo contém e integra muitos papéis. Este artigo descreve como um círculo é estruturado e como os papéis dentro dele são atribuídos, eleitos ou formados em subcírculos adicionais.
 
-#### [Artigo III: Processo de Governança] (https://github.com/holacracyone/Holacracy-Constitution-4.1-PORTUGUESE/blob/master/Holacracy-Constitution-PT.md#artigo-iii-processo-de-governança)
+#### [Artigo III: Processo de Governança](https://github.com/holacracyone/Holacracy-Constitution-4.1-PORTUGUESE/blob/master/Holacracy-Constitution-PT.md#artigo-iii-processo-de-governança)
 
 O processo de governança de um círculo é usado para definir seus papéis e políticas. Este artigo define o processo de governança e as regras básicas para propor mudanças ou contestar propostas.
 
-#### [Artigo IV: Processo Operacional] (https://github.com/holacracyone/Holacracy-Constitution-4.1-PORTUGUESE/blob/master/Holacracy-Constitution-PT.md#artigo-iv-processo-operacional)
+#### [Artigo IV: Processo Operacional](https://github.com/holacracyone/Holacracy-Constitution-4.1-PORTUGUESE/blob/master/Holacracy-Constitution-PT.md#artigo-iv-processo-operacional)
 
 Os membros de círculo dependem um do outro para ajudar a fazer seu trabalho operacional. Este artigo aborda os deveres dos membros do círculo em relação ao apoio mútuo e como funcionam as reuniões táticas.
 
-#### [Artigo V: Questões da Adoção] (https://github.com/holacracyone/Holacracy-Constitution-4.1-PORTUGUESE/blob/master/Holacracy-Constitution-PT.md#artigo-v-questões-da-adoção)
+#### [Artigo V: Questões da Adoção](https://github.com/holacracyone/Holacracy-Constitution-4.1-PORTUGUESE/blob/master/Holacracy-Constitution-PT.md#artigo-v-questões-da-adoção)
 
 Este artigo trata da transição de pré-Holacracy para operar sob a Constituição, e fornece regras ao adotar Holacracy dentro de uma estrutura de conselho com um grupo de representantes em vez de um único Elo Principal.
 
